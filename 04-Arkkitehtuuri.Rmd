@@ -1,0 +1,230 @@
+# Ilmastopolitiikan arkkitehtuuri {#arkkitehtuuri}
+
+Kun tarkastellaan ilmastopolitiikan ja muiden politiikkatoimien kokonaisuutta kansallisesti ja kansainvälisesti, puhutaan ilmastopolitiikan arkkitehtuurista. Ilmastopolitiikan välineet eivät esiinny tyhjiössä, vaan ne toimivat vuorovaikutuksessa muiden ilmastopolitiikan välineiden kanssa. Vastaavasti kotimaiset ja kansainväliset toimet riippuvat toisistaan. 
+
+Uusien politiikkatoimien tarkoituksenmukaisuutta arvioitaessa onkin tarpeen tarkastella kokonaisuutta, jonka osaksi ne tulevat. Ohjauskeinojen vaikutukset voivat poiketa merkittävästi suunnitellusta, mikäli ne limittyvät muiden välineiden kanssa. Seuraavassa tarkastellaan ilmastopolitiikan välineiden muodostamaan kokonaisuuteen liittyviä teemoja.
+
+
+## Kansainvälinen ilmastopolitiikka ja Suomi {#kvpolitiikka}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Ilmastonmuutoksen pysäyttäminen edellyttää, että laaja joukko maita osallistuu päästöjen vähentämiseen.
+- Ilmastopolitiikan kustannukset pysyvä maltillisina, jos ilmastotoimet koordinoidaan kansainvälisesti.
+
+```
+
+Ilmastonmuutoksen hillitseminen edellyttää ilmastopolitiikan toimien koordinointia kansainvälisesti. Mikään maa ei pysty yksin omilla toimillaan rajoittamaan ilmaston lämpenemistä turvalliselle tasolle. Lämpenemisen rajoittaminen 1,5 asteeseen on mahdollista vain, jos hyvin laaja joukko maita osallistuu nettopäästöjen leikkaamiseen. 
+
+### Kansainvälinen kustannustehokkuus vaatii yhteistyötä
+
+Kustannusten pysyminen maltillisena edellyttää, että ilmastopolitiikan kansainvälinen arkkitehtuuri on  [kustannustehokas](#kustannustehokkuus). Päästöjä tulisi siis vähentää ja nieluja kasvattaa ensisijaisesti siellä, missä se on edullisinta. Jos nettopäästöjen vähentäminen on kansainvälisesti laaja-alaista, kustannustehokasta ja toimiin ryhdytään nopeasti, ilmastonmuutoksen hillitsemisen kokonaiskustannukset vastaavat vain muutaman prosentin leikkausta kulutukseen [@IPCCwg3ar5].
+
+Maidenväliset erot nettopäästöjen vähentämisen kustannuksissa ovat jopa satakertaisia ja ilmastonmuutoksen hillintä on tyypillisesti edullisempaa matalatuloisissa maissa [@Aldy2016]. Jos ilmastotoimia painotettaisiin sinne, missä se on edullisinta, käytettävissä olevilla resursseilla olisi mahdollista saada valtavasti suurempi vaikutus ilmaston hyväksi.
+
+Teoreettisesti riittävä ehto optimaaliselle ilmastopolitiikalle olisi, että nettopäästöt hinnoiteltaisiin saman suuruiseksi kaikkialla maailmassa. YK:n ilmastonsuojelun puitesopimuksella on pyritty koordinoimaan ilmastotoimia kansainvälisesti ja sopimaan arkkitehtuurista, joka mahdollistaisi kustannustehokkaan ratkaisun ilmastonmuutoksen uhkaan. 
+
+### YK:n ilmastosopimus rakentuu alhaalta ylös
+
+Alkuun YK:n puitteissa pyrittiin sopimaan sitovista mutta kaupattavista päästörajoista, mikä voisi onnistuessaan koordinoida ilmastotoimet kustannustehokkaasti. Kioton pöytäkirja, jossa tämä ajatus konkretisoitui, jäi kuitenkin kattavuudeltaan suppeaksi ja tavoitteiltaan löysäksi. 
+
+Sittemmin YK:n puitteissa on neuvoteltu hajautetummasta lähestymistavasta, jossa kukin maa asettaa itselleen kansalliset päästötavoitteet ja päättää välineistä. Pariisin ilmastosopimuksessa maat sopivat yhteisestä tavoitteesta, johon osapuolet pyrkivät itse asettamillaan keinoilla. Näin tavoitellaan kattavaa ja ajan myötä kiristyvää kansainvälistä ilmastopolitiikkaa.
+
+Pariisin ilmastosopimuksen voidaan sanoa edustavan  alhaalta--ylös-lähestymistapaa siinä, missä vielä Kioton pöytäkirjassa pyrittiin koordinoimaan kansainvälistä politiikka ylhäältä--alas-lähestymistavalla. Myös alhaalta--ylös-lähestymistavalla voidaan edetä kohti kustannustehokkaampaa kokonaisuutta esimerkiksi linkittämällä kansallisia toimenpiteitä [@Itkonen2017; @stav16].
+
+```{block2, type = "laatikko", echo = TRUE}
+### Euroopan unionin ilmastopolitiikka
+
+EU:n ilmastopolitiikassa on onnistuttu jossain määrin soveltamaan ylhäältä--alas-lähestymistapaa päästövähennysten koordinoinnissa. EU-maat ovat asettaneet tavoitteeksi vähentää kasvihuonekaasupäästöjä vähintään 40 prosenttia vuoden 1990 tasosta vuoteen 2030 mennessä ja 80 prosenttia vuoteen 2050 mennessä. 
+
+Vuoden 2030 päästövähennystavoite jakautuu päästökauppasektoriin ja niin sanottuun taakanjakosektoriin. Päästökauppasektorilla on yhteinen päästövähennystavoite, joka jakautuu maiden välille markkinaehtoisesti päästökauppamekanismin avulla. Taakanjakosektorin osalta maakohtaiset päästövähennystavoitteet on jaettu poliittisesti. Maankäyttöä, maankäytön muutoksia ja metsiä koskevan LULUCF-sektorin osalta tavoitteena on pitää hiilinielut vähintään yhtä suurina kuin sektorin päästöt.
+
+Päästökauppasektorin osalta EU-maiden ilmastotoimet ovat kustannustehokkaasti koordinoituja, eli ilmastopolitiikka kannustaa vähentämään päästöjä siellä, missä se on edullisinta. Taakanjako- ja LULUCF-sektoreilla sekä niiden välillä on [joitain joustokeinoja](https://www.ym.fi/fi-FI/Ymparisto/Ilmasto_ja_ilma/Ilmastonmuutoksen_hillitseminen/Euroopan_unionin_ilmastopolitiikka), jotka mahdollistavat päästövähennystavoitteiden siirron sektoreiden ja maiden välillä, mutta itsestään ne eivät takaa kustannustehokkuutta. 
+```
+
+## Päällekkäiset ohjauskeinot {#paallekkaiset}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Samoja päästölähteitä ei tarvitse säännellä moneen kertaan päällekkäisillä ohjauskeinoilla.
+- Päästökauppasektorille osuvat ilmastotoimet eivät normaalioloissa auta ilmastoa, mutta lisäävät kustannuksia.
+- EU:n uusi markkinavakausvaranto tekee päällekkäisistä toimista hetkellisesti vaikuttavia, muttei välttämättä kannattavia.
+
+```
+
+
+Käytännön ilmastopolitiikassa toisinaan päädytään tilanteeseen, jossa harkitaan tai päätetään toteuttaa useita politiikkatoimia, jotka koskevat samoja päästöjä. Päällekkäiset ohjauskeinot tyypillisesti heikentävät ilmastopolitiikan kustannustehokkuutta. Päällekkäisten toimien vaikutukset voivat olla olemattomia tai jopa negatiivisia. Joissain tapauksissa ne voivat kuitenkin olla perusteltuja.
+
+```{block2, type = "laatikko", echo = TRUE}
+### Päällekkäiset tavoitteet EU:ssa ja Yhdysvalloissa
+
+EU:n ilmasto- ja energiapolitiikan ns. 2020-paketissa asetettiin  päästövähennystavoitteiden lisäksi tavoitteeksi kasvattaa  uusiutuvan energian osuutta ja parantaa energiatehokkuutta. Kaksi jälkimmäistä tavoitetta kohdistuu osittain myös päästökauppasektorille. 2020-paketissa päästövähennyksille asetettiin erilliset tavoitteet päästökauppasektorille ja muille sektoreille. EU:n päästökauppajärjestelmä asettaa kaikille jäsenmaille yhteisen päästötavoitteen, jolloin päästöjen hinta on sama kaikissa maissa.
+
+Lisäksi joissain jäsenmaissa on esitetty kansallisia toimia, jotka olisivat päällekkäisiä päästökauppasektorille. Osa jäsenmaista on halunnut toteuttaa EU:n ilmastopolitiikkaa kunnianhimoisempia toimia. Muutamissa jäsenmaissa on virinnyt keskustelua kivihiilen polton lopettamisesta ja Suomessa päätettiinkin hiilen energiakäytön kieltämisestä vuoteen 2029 mennessä.
+
+Vastaavasti Yhdysvalloissa ilmastopolitiikka on ollut hajanaista osavaltio- ja liittovaltiotasoilla. Liittovaltiotason ilmastopolitiikka on edennyt takkuillen ja osavaltioiden välillä on huomattavia eroja poliittisessa halukkuudessa vähentää päästöjä. Monet osavaltiot ovat toteuttaneet paikallisia ilmastotoimia ja rakentaneet osavaltioiden kesken muun muassa päästökauppajärjestelmiä. [@Goulder2010; @goul11.] 
+```
+ 
+### Riittävät ohjauskeinot
+
+Teoreettisesti hiilivero ja päästökauppa ovat riittäviä ilmastopolitiikan välineitä siinä mielessä, että niiden lisäksi ei välttämättä tarvita muita ohjauskeinoja kasvihuonekaasupäästöjen aiheuttaman ulkoisvaikutuksen korjaamiseksi [@Sterner2013]. 
+
+Markkinaehtoiset ohjauskeinot ovat vaikuttavia ja kustannustehokkaita, joten niiden avulla nettopäästöjä voidaan aina vähentää haluttu määrä edullisesti. Päästöjä halutaan vähentää nykyistä nopeammin, se onnistuu nostamalla hiiliveroa tai vähentämällä päästöoikeuksien määrää. Ellei markkinoilla esiintyisi muita häiriöitä, optimaalinen ilmastopolitiikka ei muuta tarvitsisi.
+
+### Päästökauppa ja päällekkäiset toimet
+
+[Päästökauppasektorille](#paastokauppa) kohdistuvat päällekkäiset ilmastotoimet eivät normaalioloissa vähennä päästöjä, mutta ne lisäävät kustannuksia.
+
+Päästöoikeuksien kokonaismäärä asettaa ylärajan päästöjen määrälle. Kun päällekkäisillä politiikkatoimilla vähennetään päästöjä yhtäällä, se vapauttaa markkinoille päästöoikeuksia, jotka käytetään toisaalla (ns. vesisänky-efekti). Päällekkäiset toimet kuitenkin määrittävät tapoja, jolla päästöjä on vähennettävä, joten ne aiheuttavat lisäkustannuksia. 
+
+Esimerkiksi vaatimus kasvattaa uusiutuvan energian osuutta vähentää sähköntuotannon päästöjä, mutta siirtää ne muille toimialoille. Uusiutuva energia ei välttämättä ole edullisin tapa vähentää sähköntuotannon päästöjä, joten päästöjen vähentämisestä tulee tarpeettoman kallista.
+
+Vastaavasti kivihiilen energiakäytön kielto ei vaikuta päästöihin. Mahdollinen päästövähennys vapauttaa päästöoikeuksia markkinoille, mikä mahdollistaa päästöjen lisäämisen toisaalla. 
+
+@Magnusson2017 arvioi, että EU:n uusiutuvan energian kiintiö likimain kaksinkertaisti päästötavoitteeseen pääsemisen kustannuksen energiasektorilla. Böhringer ym. [-@Böhringer2016] arvioivat, että EU:n ilmasto- ja energiapaketti likimain viisinkertaisti päästöjen vähentämisen kustannuksen. Päällekkäiset ohjauskeinot saattavat jopa kannustaa päästöjen aikaistamiseen ja siten kiihdyttää ilmastonmuutosta [@Magnusson2017].
+
+
+### Markkinavakausvaranto poistaa päästöoikeuksien ylijäämää
+
+EU:n päästökauppajärjestelmän myöntämistä päästöoikeuksista merkittävä määrä on jäänyt käyttämättä, kun niiden kysyntä on ollut vähäistä tarjontaan nähden. Päästöoikeuksien kysyntää on osaltaan supistanut finanssikriisin jälkeinen taantuma, päällekkäiset toimenpiteet päästökauppasektorilla sekä päästöjen vähentämisen helppous, mutta suurelta osin syyt ovat yhä selittämättä [@Koch2014; @Hintermann2016].
+
+EU:n päästökauppajärjestelmän sääntöjä muutettiin käyttämättömien päästöoikeuksien määrän vähentämiseksi. Järjestelmään lisättiin vuonna 2019 ns. markkinavakausvaranto^[Market Stability Reserve, MSR.], johon  vuosittain siirretään käyttämättömistä päästöoikeuksista osa, mikäli niitä kertyy liikaa.
+
+Mikäli yksittäinen EU:n jäsenmaa haluaa toteuttaa yhteistä tavoitetta tiukempaa ilmastopolitiikkaa päästökauppasektorilla, se onnistuu kustannustehokkaasti poistamalla päästöoikeuksia markkinoilta. Markkinavakausvarannon ansiosta päästöoikeuksien poistolla on tilapäisesti nimellistä määrä suurempi vaikutus.
+
+
+```{block2, type = "laatikko", echo = TRUE}
+### Reikä vesisängyssä? {#vesisanky}
+
+Markkinavakausvarannon ansiosta päästökauppasektorilla tehdyt päästövähennykset voivat tilapäisesti supistaa päästöoikeuksien kokonaismäärää ja siten myös kokonaispäästöjä. Jos päästöoikeuksia jättää käyttämättä ja tallettaa niitä useamman vuoden ajan, päästökauppajärjestelmään syntyy päästöoikeuksia vähemmän. Varannon laskentasäännöistä johtuen vaikutus kuitenkin heikkenee tulevina vuosina ja lakkaa vaikuttamasta kokonaan vuonna 2024. [@Perino2018.] 
+
+Markkinavakausvaranto voi siis tilapäisesti heikentää vesisänky-efektiä eli vähentää päästöjen siirtymistä päästöoikeuksien mukana. Käytännössä kokonaispäästöjen markkinavakausvarannon kautta edellyttää, että päästöoikeuksien ostaja jättää ne käyttämättä ja tallettaa ne pitkäksi ajaksi.
+
+Oletetaan esimerkiksi, että tuulivoimatuki vähentää päästöjä, jolloin sähköntuotannosta vapautuu päästöoikeuksia markkinoille. Jos päästöoikeuksien ostaja jättää ostamansa oikeudet käyttämättä (vaikkapa spekuloidakseen tulevalla hinnankehityksellä tai varautuakseen tuleviin päästötarpeisiin), niin oikeudet tallennetaan päästökauppajärjestelmän pankkiin. Tällöin sääntöjen mukaan pieni määrä päästöoikeuksia jätetään huutokauppaamatta ja laitetaan markkinavakausvarantoon. Päästöoikeuksista siirretään vuosittain osa varantoon niin kauan kun niitä säilytetään pankissa. Mikäli markkinavakausvarantoon lisätyt oikeudet säilyvät siellä vuoteen 2024 saakka, ne kuoletetaan, jolloin päästöoikeuksien kokonaismäärä supistuu.
+
+Teoriassa siis päästökauppasektorilla toteutettujen päällekkäisten ilmastotoimien hiilivuoto ei ole sataprosenttinen, mutta se lähestyy sitä lähivuosina. Päällekkäisillä toimilla voi siis olla vaikutus, mutta on silti epätodennäköistä, että toimet olisivat kustannustehokkaita saati kannattavia. 
+
+```
+
+
+## Sääntelyn optimaalinen kohde {#kohde}
+
+```{block2, type = "tiivis", echo = TRUE}
+- On parempi verottaa fossiilisia polttoaineita kuin niitä hyödyntäviä tuotteita.
+- Valtaosa päästöistä syntyy fossiilisista polttoaineista ja niiden tuottamien päästöjen hinnoittelu on helppoa.
+- Lopputuotteiden päästöjen hinnoittelu ei aina kannusta vähentämään tuotannon päästöjä.
+
+```
+
+
+Pitäisikö ilmastopolitiikan säännellä yrityksiä vai kuluttajia? Missä kohtaa tuotantoketjua päästöjä tulisi hinnoitella hiiliverojen tai päästökaupan avulla? Ilmastopolitiikan velvoitteita voi kohdistaa moneen eri kohtaan talouden kiertoa. 
+
+Helposti voi syntyä houkutus säännellä kaikkea, mikä liittyy suorasti tai epäsuorasti päästöihin. Ilmastopolitiikka on kuitenkin tarkoituksenmukaista nähdä kokonaisuutena ja pohtia, mitkä olisivat parhaita kohtia ohjata päästöjä aiheuttavaa toimintaa. Samoja päästöjä ei tarvitse säännellä moneen kertaan. Sääntelyn kohteella on merkitystä vaikuttavuuden, kustannustehokkuuden ja hallinnollisen kuormituksen kannalta.
+
+```{r suomikhk02, fig.cap = "Suomen kasvihuonekaasupäästöt syntyvät suurelta osin energiankäytöstä", warning = FALSE, cache = TRUE}
+```
+
+Esimerkiksi raakaöljy virtaa talouden läpi useamman yrityksen kautta: öljy tuodaan maahan ja jalostetaan muun muassa bensiiniksi, joka jaellaan ja myydään kulutettavaksi talouden eri sektoreilla. Tulisiko julkisen vallan säännellä fossiilisten polttoaineiden maahantuojia tai jalostajia vai niitä käyttäviä kuluttajia? 
+
+Jotta ilmastopolitiikka olisi [vaikuttavaa](#vaikuttavuus), riittää, että päästöt tulevat hinnoitelluksi kertaalleen jossakin tuotantoketjun osassa. Esimerkiksi hiilivero voidaan kantaa, kun polttoaine tuodaan maahan tai tuotetaan, tai kun polttoaine luovutetaan kulutukseen.
+
+```{block2, type = "laatikko", echo = TRUE}
+### Tuotantoketjun ylä- ja alajuoksu
+
+Modernissa markkinataloudessa tavarat ja palvelut syntyvät monimutkaisissa tuotantoketjuissa. Erilaiset panokset ja raaka-aineet muotoutuvat välituotteiksi, joita muut yritykset käyttävät panoksinaan. 
+
+Tuotantoketjun alkupäähän eli ns. *yläjuoksuun* kohdistuva politiikka velvoittaa esimerkiksi fossiilisten polttoaineiden tuottajia ja maahantuojia. Vaihtoehtoisesti toimenpiteen voi kohdistaa tuotantoketjun loppuun eli *alajuoksuun*, jolloin sääntely koskee loppukäyttöön päätyviä tavaroita ja palveluita. 
+```
+
+### Kustannustehokkuus ja moninkertainen hinnoittelu
+
+[Kustannustehokkuuden](#kustannustehokkuus) kannalta on olennaista, että kaikilla päästölähteillä on sama hinta ja että tuottajat voivat vaikuttaa heille koituviin kustannuksiin. Jotta ilmastopolitiikka olisi kustannustehokasta, sääntelyn kohdat tulisi valita siten, että nämä kaksi ehtoa täyttyvät.
+
+Yhden hinnan periaate ei välttämättä toteudu, jos samat päästöt verotetaan useampaan kertaan tuotantoketjun eri vaiheissa. Esimerkiksi muovikassien hiilijalanjälki koostuu lähinnä raakaöljyn ja energiankäytön päästöistä [@Mattila2009]. Mikäli panosten päästöt on jo hinnoiteltu ja lisäksi vielä hinnoitellaan muovikassien päästöt, päädytään tilanteeseen, jossa kaikilla päästöillä ei ole sama hinta. Silloin muovikassien käytöstä aiheutuvilla päästöillä on korkeampi hinta kuin energiankäytöllä.
+
+### Hiilen hinnoittelu alajuoksulla on haastavaa
+
+Jotta tuottajilla olisi taloudellinen kannustin vähentää nettopäästöjä muuttamalla tuotantotapojaan, niiden on voitava vaikuttaa hiilen hinnoittelusta koituviin kustannuksiin. Näin ei välttämättä ole, jos hiilen hinnoittelu kohdistuu lopputuotteisiin. 
+
+Esimerkiksi lentovero, joka määräytyy lentomatkan perusteella, ei anna lentoyhtiöille suoraa kannustinta vähentää päästöjä, koska investoinnit vähäpäästöisempään kalustoon ei muuta veron määrää. Paremman kannustimen antaisi hiiliveron kohdistaminen lentopolttoaineisiin, jolloin vero määräytyisi päästöjen mukaan. 
+
+Tieto lopputuotteiden kuten muovikassien hiilijalanjäljistä perustuu ns. elinkaariarviointimenetelmään^[Life cycle assessment, LCA.], joka on varsin monimutkainen ja työläs [@Mattila2009; @Seppälä2011; @Seppälä2009]. Se edellyttää, että tutkijat käyvät yksityiskohtaisesti läpi kunkin hyödykkeen kaikki tuotantoprosessin vaiheet ja niiden aiheuttamat kasvihuonekaasupäästöt aina raaka-ainehankinnoista, valmistuksesta, kuljetuksesta hyödykkeen hävitykseen saakka. Esimerkiksi erilaisten ostoskassien hiilijalanjäljen määrittämiseen on tarvittu Suomen ympäristökeskuksen ja Lappeenrannan teknillisen yliopiston laaja Optikassi-hanke [@Mattila2009].
+
+Elinkaariarviointimenetelmän lopputuloksena syntyy arvio hyödykeryhmän keskimääräisistä päästöistä. Hyödykeryhmän keskiarvoa voitaisiin käyttää hiilen hinnoittelussa. Muovikassien tuottajille tämä antaisi kuitenkin huonot kannustimet kehittää tuotantoaan ilmastoystävällisempään suuntaan. Yksittäinen muovikassien tuottaja voi vaikuttaa vain vähän hyödykeryhmän keskiarvoon, jonka mukaan sen hiilivero määräytyisi. Vähäpäästöiseen tuotantotapaan tehtyjen investointien hyöty ei näkyisi yrityksen kustannuksissa ennen kuin uusi elinkaariarviointitutkimus olisi suoritettu.
+
+Lisäksi on huomioitava erilaisten lopputuotteiden valtava määrä nykyaikaisessa taloudessa. Isoissa päivittäistavarakaupoissa saattaa olla kymmeniätuhansia hyödykkeitä ja valikoima muuttuu jatkuvasti. Käytännössä lopputuotteiden hiilijalanjälkien luotettava arviointi ja arvioiden päivittäminen olisi todennäköisesti ylitsepääsemättömän suuri urakka. 
+
+### Yläjuoksulla hiilen hinnoittelu on helpompaa
+
+Pääsääntöisesti on helpompaa hinnoitella hyödykkeitä tuotantoketjujen alkupäässä, jossa päästöjä aiheuttavien hyödykkeiden määrä on rajallisempi. Esimerkiksi fossiilisten polttoaineiden hiilisisällön määrittäminen on verrattain suoraviivaista ja näistä muodostuukin jo valtaosa kasvihuonekaasupäästöistä. 
+
+Kun hiili hinnoitellaan yläjuoksulla, päästöjä aiheuttavien raaka-aineiden hinnat nousevat. Tämä hinnannousu siirtyy markkinamekanismin välityksellä läpi koko tuotantoketjun. Se nostaa alajuoksulla sellaisten lopputuotteiden hintoja, joiden valmistaminen on edellyttänyt päästöjä aiheuttavia raaka-aineita. Kun hiili on hinnoiteltu päästölähteellä, markkinat ikään kuin hoitavat edellä kuvatun elinkaariarviointimenetelmän virkaa, ja lopputuotteiden hinnat nousevat suhteessa niiden aiheuttamiin päästöihin.
+
+Yläjuoksun sääntely on hallinnollisesti edullisempaa myös siitä syystä, että yläjuoksulla säänneltäviä yrityksiä on vähemmän. Esimerkiksi fossiilisten polttoaineiden tuotantoon ja maahantuontiin osallistuvien yritysten määrä on rajallinen. Myös teollisuusprosesseihin liittyviä päästöjä tuottavia laitoksia on verrattain vähän. 
+
+Samasta syystä voidaan olettaa, että kuluttajatason päästökaupan hallinnolliset kustannukset olisivat yritystason päästökauppaa suuremmat.^[Esimerkiksi Lahdessa on suunnitella [kuluttajatason päästökauppajärjestelmä](https://www.lahti.fi/palvelut/luonto-ja-ymparisto/citicap) liikenteen päästöille.] Kuluttajatason päästökauppaan osallistuvien määrä voisi nousta jopa kymmentuhatkertaiseksi.^[EU:n päästökauppajärjestelmässä on mukana noin 12000 laitosta. Kuluttajatason päästökauppa puolestaan edellyttäisi koko väestön osallistumista.] Se tarkoittaisi, että ihmiset joutuisivat käyttämään huomattavasti aikaa ja vaivaa hiilibudjeteistaan huolehtimiseen. Kun hiili on hinnoiteltu yrityksissä, kuluttajien tarvitsee ostopäätöksiä tehdessään huomioida vain hyödykkeiden hinnat, jotka heijastavat niiden aiheuttamia päästöjä.
+
+Joissain tapauksissa sääntelyn kohdistaminen myös alajuoksuun on perusteltua. Esimerkiksi sähköntuotannossa käytettyjen polttoaineiden määrät ovat hyvin tiedossa ja sähkön päästöjen hinnoittelun etuna on, että sähköntuottajille muodostuu kannustimet päästöjen talteenotolle ja varastoinnille. Jos sähköntuottajien käyttämien polttoaineiden hiili hinnoitellaan ylempänä tuotantoketjussa, tuottajat eivät hyötyisi taloudellisesti päästöjen poistamisesta. 
+
+
+## Ilmastopolitiikan tulojen käyttö {#hiilitulot}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Hiilivero, päästökauppa ja hiilitulli kerryttävät valtiolle tuloja, joille on ehdotettu monenlaisia käyttötapoja.
+- Käytettynä vääristävien verokantojen alentamiseen ilmastopolitiikan lisätulot voisivat vähentää kokonaisverorasitusta.
+- Lisätuloja on ehdotettu käytettäväksi myös ilmastopolitiikan oikeutuksen vahvistamiseen.
+
+```
+
+
+Hiiliverot, hiilitullit ja päästöoikeuksien huutokauppa kerryttävät tuloja julkiselle sektorille. Näille lisätuloille on ehdotettu monenlaisia käyttökohteita. 
+
+### Budjettiperiaatteet
+
+Ilmastopolitiikan synnyttämät lisätulot päätyvät samaan kassaan kuin kaikki muutkin valtion tulot. Suomessa perustuslaista johdetut budjettiperiaatteet velvoittavat, että kaikki menot ja tulot sisällytetään valtion talousarvioon [@VTV2015]. 
+
+Lisätuloja voidaan siis käyttää samoihin kilpaileviin menokohteisiin kuin muitakin valtion varoja. Tästä näkökulmasta ilmastopolitiikan muodostamista lisätuloista tulisi päättää samoin periaattein kuin muista julkisista varoista eli osana valtion budjettikokonaisuutta, josta vastaa Suomessa eduskunta.
+
+Ilmastopolitiikan synnyttämien tulojen käytöstä ei tarvitse päättää samalla, kun suunnitellaan itse ohjauskeinoja. Ohjauskeinojen vaikutuksia arvioitaessa on kuitenkin tärkeä huomioida, etteivät kertyneet lisätulot häviä taloudesta. Ne voidaan käyttää hyödyllisellä tavalla joko keventäen veroja, lisäten menoja tai supistaen alijäämää. 
+
+Samalla on hyvä huomata, että ilmastopolitiikan tulot eivät myöskään synny tyhjästä. Ne kasvattavat verorasitusta ja hallinnollisia kustannuksia samaan tapaan kuin verot ja sääntely yleisesti. Tulojen kerääminen ilmastopolitiikalla heikentää yritysten kannattavuutta ja supistavaa kotitalouksien ostovoimaa.
+
+### Kaksinkertainen hyöty?
+
+Ilmastopolitiikan lisätulojen turvin on mahdollista alentaa erilaisia verokantoja. Tutkimuskirjallisuudessa on pohdittu erityisesti tapoja kohdistaa alennukset veroihin, joiden uskotaan aiheuttavan erityisen paljon markkinavääristymiä ja hyvinvointitappioita.
+
+Tietyin ehdoin ilmastopolitiikan mahdollistama veronkevennys voi synnyttää kaksinkertaisen hyödyn (double dividend). Päästöjen vähenemisen lisäksi verojärjestelmän aiheuttama rasitus voisi keventyä.
+
+Kokonaisverorasituksen keveneminen ei kuitenkaan ole aina ilmeistä, sillä päästökauppa ja hiilivero heikentävät epäsuorasti työnteon kannustimia, mikä osaltaan vaikuttaa hyvinvointiin negatiivisesti. [@Goulder1995; @Goulder2013; @Parry1999.]
+
+### Monenlaisia käyttökohteita
+
+Lisätulot voidaan myös käyttää ilmastotoimien poliittisen oikeutuksen vahvistamiseen. Tuloista osa on esimerkiksi mahdollista käyttää ilmastotoimien tulonjakovaikutusten kumoamiseen. On myös ehdotettu hiilivero- ja päästökauppatulojen jakamista suoraan kansalaisille perustulona. 
+
+Päästöoikeuksien ilmaisjaon voi myös ajatella eräänlaisena ilmastopolitiikan tulojen palautuksena. Se voi olla perustelua niiden yritysten osalta, jotka kärsivät kansainvälisessä kilpailussa verotuksen kiristymisestä. Päästöoikeuksien ilmaisjako keventää taakkaa samoilta yrityksiltä, joilta huutokauppatulot on kerätty. Vastaavasti voidaan perustella myös yleistä yritysverotuksen kevennystä keinona palauttaa tulot takaisin yrityssektorille.
+
+Lisätulot voidaan myös käyttää menojen lisäämiseen. Ilmastopolitiikkaan liittyvät menot on yleisesti ehdotettu kohde. Esimerkiksi EU velvoittaa, että vähintään puolet päästöoikeuksien huutokauppatuloista tulisi käyttää ilmasto- ja energiatarkoituksiin. Mainittakoon vielä, että lisätuloilla voitaisiin myös supistaa kestävyysvajetta.
+
+
+## Miksi ilmastonmuutos on ratkaisematta?
+
+Ihmiskunta on onnistunut ratkaisemaan lukemattomia ongelmia ja parantanut elämänlaatua monilla mittareilla, mutta jäljellä on yhä suuria haasteita. Ilmastonmuutos on yksi suurimpia niistä. Miksi ilmasto-ongelma on yhä ratkaisematta? Miksi markkinatalous ei ole ohjannut ihmisten toimintaa ilmaston kannalta kestävään suuntaan? 
+
+Teknologinen kehitys on onnistunut nostamaan suomalaisten elintasoa viimeisen 200 vuoden aikana valtavasti [@Pohjola2017]. Elintaso on noussut siinä määrin, että nykyihmiselle on vaikea käsittää niitä elinoloja, jotka vallitsivat ennen teollisen aikakauden alkua. Millaista oli elää ilman perusterveydenhuoltoa tai takeita riittävästä ravinnonsaannista? 
+
+Suomessa suuri osa väestöstä eli vielä 1800-luvun puolivälissä oloissa, joita nykyään kutsuisimme äärimmäiseksi köyhyydeksi. Suomalaiset nousivat nopeasti maailman vauraimpien ja onnellisimpien kansojen joukkoon. Sama kehitys jatkuu yhä muualla. Vuonna 2015 maailmassa oli yli miljardi äärimmäisessä köyhyydessä elävää ihmistä vähemmän vuoteen 1990 verrattuna [@WB2018].
+
+Ihmiset kykenevät itsenäisesti järjestäytymään tuottaakseen valtavan monimutkaisia tavaroita ja palveluita erilaisten inhimillisten tarpeiden tyydyttämiseksi. Toimiessaan vapaasti markkinoilla ihmiset voivat myydä työpanostaan ja työnsä tuotoksiaan etsien parhaita tapoja hyödyntää voimavarojaan. Vastaavasti kuluttajat voivat etsiä markkinoilta hyödykkeitä, jotka vastaavat parhaiten heidän tarpeitaan. Voimme neuvotella hinnoista tai äänestää jaloillamme ja innovoida uusia hyödykkeitä.
+
+Markkinat ovat toimiva väline ihmisten voimavarojen ja tarpeiden yhteensaattamiseksi monilla elämän osa-aluilla. Silloinkin kun markkinat epäonnistuvat tehtävässään, julkinen sektori voi usein auttaa ratkaisemaan ongelman. Se voi säännellä markkinoita luoden pelisääntöjä, jotka varmistavat suotuisan lopputuloksen. Modernissa sekataloudessa julkinen sektori luo käytännössä kaikille markkinoille jonkinlaista sääntelyä parantamaan markkinoiden toimintaa. 
+
+Ilmastonmuutos on kuitenkin sitkeä ongelma, jota ei yksityinen eikä julkinen talous ole kyennyt ratkaisemaan. Ongelman ydin on siinä, että yksityisillä ihmisillä eikä edes kansallisvaltioilla ole riittäviä kannustimia rajoittaa kasvihuonekaasupäästöjä tai kasvattaa hiilinieluja, ainakaan toimiessaan puhtaasti omaa etuaan ajatellen.
+
+Ilmastonmuutos aiheutuu sivutuotteena taloudellisten toimijoiden lukemattomista pienistä valinnoista. Samalla, kun ponnistelemme omien ja läheistemme inhimillisten tarpeiden tyydyttämiseksi, saatamme pieneltä osaltamme vaikuttaa niihin tekijöihin, jotka kiihdyttävät ilmastonmuutosta.
+
+Ilmastonmuutos on siis tahaton sivuvaikutus ihmisten ponnistellessa kohti parempaa hyvinvointia. Myös monesta muusta taloudellisesta toiminnasta syntyy haitallisia sivutuotteita, mutta usein kykenemme ratkaisemaan ongelmat. Ongelmiin on usein mahdollista puuttua luomalla yhteisiä pelisääntöjä. Taloustieteessä tällaisia sivullisille aiheutuneita kustannuksia, joita tekijä ei joudu korvaamaan, kutsutaan negatiivisiksi ulkoisvaikutuksiksi.
+
+Ilmastonmuutos on ulkoisvaikutus ja poikkeuksellisen siitä tekee sen globaali luonne. Jokainen yksittäinen arkinen teko, joka kiihdyttää ilmastonmuutosta, vaikuttaa yhteisen ilmaston kautta kaikkiin muihin maapallon asukkaisiin. 
+
+Yksittäisen teon vaikutus on hyvin pieni ja jakautuu miljardien nykyisten ja tulevien ihmisten kesken. Vaikutukset kuitenkin summautuvat siten, että muodostuu merkittävä riski elämän perusedellytyksille. Lisäksi ne summautuvat pitkän ajanjakson kuluessa ja vaikuttavat pitkällä viiveellä.
+
+Ilmastonmuutoksen globaalista luonteesta seuraa myös, että ei ole sellaista yhteistä päätöksenteon elintä, joka voisi suvereenisti luoda ratkaisun ja sovittaa yhteen erilaiset intressit kansainvälisesti. Ideaali ratkaisu ilmastonmuutoksen ei ole käytettävissä, vaan se joudutaan rakentamaan pienissä palasista.
+

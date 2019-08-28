@@ -1,0 +1,114 @@
+---
+title: "Välineet ilmastonmuutoksen hillitsemiseksi"
+author: Juha Itkonen
+description: "Tässä raportissa esitellään ilmastonmuutoksen hillinnän politiikkaväilineitä yleistajuisesti tutkimuskirjalliuuden pohjalta."
+date: "`r max(as.Date('2019-08-29'), Sys.Date())`"
+site: bookdown::bookdown_site
+lang: fi
+documentclass: report
+classoption: twoside,openright
+fontsize: 12pt
+papersize: b5
+geometry: null
+cover-image: "cover-image.png"
+bibliography: ["library.bib"]
+biblio-style: apalike
+link-citations: yes
+github-repo: itkonen/ilmastoraportti
+csl: apa2.csl
+css: style_manuscript.css
+---
+
+```{r setup, include = FALSE}
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, treemapify, pxweb, svglite, RJSONIO, countrycode, data.table, ggrepel)
+knitr::opts_chunk$set(echo = FALSE,
+                      cache = TRUE,
+                      cache.extra = list(
+                        sessionInfo(),
+                        tools::md5sum("koodit.R")))
+knitr::read_chunk("koodit.R")
+
+```
+
+# Tiivistelmä {-}
+
+Ilmastonmuutoksen hillitsemiseksi on olemassa vaikuttavia ja kustannustehokkaita välineitä. Ilmastopolitiikan välineistä on saatavilla valtavasti tutkimustietoa ja käytännön sovelluksista on kertynyt runsaasti kokemuksia. Keinot ilmastonmuutoksen muodostaman uhan torjumiseksi tunnetaan tieteessä paremmin kuin ehkä yleisesti tiedostetaan.
+
+Tässä raportissa esitellään ilmastopolitiikan hillinnän välineitä tutkimuskirjallisuuden pohjalta. Aluksi pohditaan, millaisia ominaisuuksia ilmastopolitiikan välineiltä tulisi odottaa? Hyvällä ilmastopolitiikalla tulisi olla ainakin neljä seuraavaa ominaisuutta:
+
+1. [*Vaikuttavuus*](#vaikuttavuus) on ilmastopolitiikan olennaisin ominaisuus, jota ilman ilmastonmuutos ei hidastu. Käytännössä huonosti suunnitellut ilmastotoimet eivät välttämättä vähennä päästöjä tai lisää hiilinieluja. Näin voi käydä esimerkiksi, jos toimet kohdistuvat päästöihin, [joita säännellään jo ennestään](#paallekkaiset).
+2. [*Kustannustehokkuus*](#kustannustehokkuus) tarkoittaa, että saadaan aikaan suurempi ilmastovaikutus pienemmillä kustannuksilla. Kustannustehokkuuden ansiosta resursseja jää enemmän muiden hyvinvoinnin kannalta tärkeiden tavoitteiden edistämiseen. Ero kalliimpien ja halvimpien välineiden välillä on usein jopa [satakertainen](#kvpolitiikka).
+3. [*Kannattavuus*](#kannattavuus) tarkoittaa, että ilmastopolitiikan hyödyt ylittävät kustannukset. Vaikka päästöjen vähentäminen on yhteiskunnallisesti kannattavaa, yksilön oman edun näkökulmasta se ei välttämättä ole sitä.
+4. [*Oikeudenmukaisuus*](#oikeudenmukaisuus) on pohjimmiltaan subjektiivinen piirre, mutta tutkimuksen pohjalta voidaan arvioida arvovalintojen seurauksia. Ilmastonmuutoksella ja ilmastopolitiikalla on tulonjakovaikutuksia maiden sisällä ja välillä. Tulonjakovaikutukset voidaan usein hyvittää muilla politiikkavälineillä.
+
+Tutkimuskirjallisuudessa on muodostunut verrattain vakiintunut käsitys tarkoituksenmukaisen ilmastopoliittisen kokonaisuuden pääpiirteistä.
+
+1. Hiilen hinnoittelu [*päästökaupan*](#paastokauppa) tai [*hiiliveron*](#hiilivero) avulla on ilmastopolitiikan ensisijainen väline. Päästökaupassa päästöjen tuottamiseen myönnetään rajallinen määrä oikeuksia, joille muodostuu hinta markkinoilla. Vastaava hinta päästöjen tuottamisesta voidaan veloittaa myös hiiliverolla. Päästöoikeuksien määrää supistamalla tai hiiliveroa kiristämällä päästöt saadaan vähenemään niin paljon kuin halutaan. Kustannustehokkuuden ansiosta hiilen hinnoitteluun perustuva ilmastopolitiikka ei aiheuta tarpeetonta haittaa ihmisten hyvinvoinnille.
+2. Ilmastopolitiikasta koituvia kustannuksia voidaan keventää [*tukemalla innovaatiotoimintaa*](#tktuki), joka tuottaa nettopäästöjen vähentämiseen uusia teknologisia ratkaisuja ja edistää niiden käyttöönottoa. Uutta teknologiaa kehittämällä Suomi voi vaikuttaa päästöihin kansainvälisesti kokoaan suuremmin. T&k-tuet parantavat ilmastopolitiikan kustannustehokkuutta, mutta eivät vähennä päästöjä yksinään.
+3. Yritysten ja kuluttajien ympäristöystävällistä käyttäytymistä voidaan tukea [*tarjoamalla tietoa*](#informaatio) ilmastovaikutuksista valintojen tueksi. Informaatio voi ohjata ihmisiä parempiin valintoihin rajoittamatta vaihtoehtoja tai lisäämättä kustannuksia.
+4. [*Tukien*](#ilmastotuet) avulla voidaan kannustaa hiilinielujen kasvattamiseen ja päästövähennyksiin kansainvälisesti. Tuki vähäpäästöiselle tuotannolle ei välttämättä ole kustannustehokas ja se voi jopa lisätä päästöjä.
+5. Päästöihin voidaan puuttua myös suoran [*sääntelyn*](#kiellot) keinoin, mikäli kannusteiden luominen muilla välineillä ei onnistu. Kiellot ja sääntely ovat kuitenkin kalliita välineiltä, joille usein löytyy parempia vaihtoehtoja. Sääntely saattaa estää yrityksiä käyttämästä parhaita mahdollisia keinoja päästöjen vähentämiseen.
+
+Ilmastopolitiikan kansainvälistä [kokonaisuutta suunnitellessa](#arkkitehtuuri) on syytä huomioida, että ilmastonmuutoksen pysäyttäminen edellyttää, että laaja joukko maita osallistuu päästöjen vähentämiseen. Jotta ilmastopolitiikan kustannukset pysyvä hallittavina, nettopäästöjä tulisi vähentää painotetusti siellä, missä se on edullisinta. 
+
+Ilmastopolitiikan kokonaisuus on syytä rakentaa niin, että samoja päästölähteitä ei säännellä moneen kertaan [päällekkäisillä ohjauskeinoilla](#paallekkaiset). Päästökaupan piiriin osuvat ylimääräiset ilmastotoimet eivät normaalioloissa auta ilmastoa, mutta lisäävät kustannuksia.
+
+Hiilen hinnoittelu on usein paras kohdistaa [tuotantoketjun alkupäähän](#kohde) eli suoraan fossiilisiin polttoaineisiin eikä niitä hyödyntäviin tuotteisiin. Esimerkiksi lentolippujen verottaminen ei kannusta lentoyhtiöitä vähentämään päästöjään yhtä hyvin kuin lentopolttoaineiden verottaminen.
+
+Hiilivero, päästökauppa ja hiilitulli [kerryttävät valtiolle tuloja](#hiilitulot), joille on ehdotettu monenlaisia käyttötapoja. Jos lisätulot käytetään verorasituksen vähentämiseen, esimerkiksi työn verotusta keventämällä, ilmastopolitiikan kokonaiskustannus voi supistua. Lisätuloja on ehdotettu käytettäväksi myös ilmastopolitiikan oikeutuksen vahvistamiseen.
+
+Toimimalla nopeasti ja valitsemalla välineet viisaasti, ilmastonmuutosta on yhä mahdollista hillitä.
+
+
+# Esipuhe {-}
+
+Ilmastonmuutos on yksi suurimmista globaaleista muutosvoimista ja lähivuosikymmenten uhkista. Muuttuvalla ilmastolla on myös merkittäviä vaikutuksia talouteen ja yritystoimintaan koko maailmassa. Tietoisuus ilmiöstä on viime vuosina kasvanut voimakkaasti, ja keinoista ilmastonmuutoksen estämiseksi ja rajoittamiseksi keskustellaan tällä hetkellä erittäin paljon. 
+
+Pariisin ilmastosopimuksen tavoitteisiin pääsy edellyttää mittavia päästövähennyksiä. Ilmastopolitiikalle ollaan asettamassa koko ajan kunnianhimoisempia tavoitteita, mutta konkreettisia toimia globaalien päästöjen vähentämiseksi tarvitaan kuitenkin huomattavasti lisää. 
+
+Samaan aikaan kokonaiskuva ilmastopolitiikan keinovalikoimasta ja parhaista vaihtoehdoista on silti varsin puutteellinen. Ilmastonmuutoksen torjuntaan esitetään keinoiksi esimerkiksi erilaisen sääntelyn huomattavan voimakasta kiristämistä, mutta myös markkinamekanismiin perustuvia tapoja kuten päästökauppaa. 
+
+Välineet ilmastonmuutoksen hillitsemiseksi on Tehokkaan Tuotannon Tutkimussäätiön* rahoittama keskustelunaloite, jossa VTT Juha Itkonen analysoi eri keinoja ilmastonmuutoksen torjumiseksi ekonomistin näkökulmasta ja vankkaan tutkimustietoon perustuen. Itkonen kiteyttää tekstissään hyvän ilmastopolitiikan periaatteet, joiden avulla voidaan arvioida eri keinoja ilmastonmuutoksen torjuntaan ja valita niistä parhaat. 
+
+Kirjoittaja on yksi Suomen aktiivisimmista talouspoliittiseen keskusteluun osallistuvista ekonomisteista ja hän on laajasti perehtynyt ilmastopolitiikkaan ja tutkimustietoon eri keinoista ilmastonmuutoksen hillitsemiseksi.
+
+Itkosen kirjoittama keskustelunaloite ilmestyy Tehokkaan Tuotannon Tutkimussäätiön julkaisusarjassa, jossa julkaistaan talouden tuottavuus- ja tehokkuuskysymyksiä eri näkökulmista tarkastelevia raportteja ja selvityksiä. Säätiö toivoo Itkosen työn raportin syventävän Suomessa käytävää keskustelua ilmastopolitiikasta sekä antavan välineitä optimaalisen ilmastopolitiikan harjoittamiseksi. Ilmastonmuutosta on vielä mahdollista hillitä, mutta se edellyttää oikeiden keinojen valintaa nopeasti ja laajasti. 
+
+Kaikki raportissa esitetyt tulkinnat ovat luonnollisesti kirjoittajan omia, eivätkä ne sellaisenaan edusta säätiön tai sen taustayhteisöjen kantoja. 
+
+```{block2, type='flushright', html.tag='p', echo = T}
+**Aaro Cantell**
+```
+
+###
+
+Ilmastonmuutos on valtavan laaja aihe, jota voi lähestyä lukemattomista eri näkökulmista. Tässä raportissa tarkastelu on rajattu ilmastonmuutoksen hillinnän politiikkavälineisiin. Taustalla on kysymys, millaisilla poliittisilla päätöksillä talous voidaan ohjata vähentämään nettopäästöjä siten, että hyöty ilmastolle olisi mahdollisimman suuri ja kustannus ihmisille mahdollisimman pieni? 
+
+Näin rajattunakin aiheeseen liittyvän tutkimuskirjallisuuden laajuus on mittava. Tässä raportissa pyrin luomaan laaja-alaisen katsauksen kirjallisuuteen ja kokoamaan keskeisimmät havainnot ja tutkimukseen perustuvat politiikkasuositukset. Tällainen tiivistys ei voi koskaan olla täysin tyhjentävä. Tiivistelmän tekijän suurimpana haasteena on rakentaa tasapainoinen ja olennaisilta osilta kattava kokonaisuus. Sen vuoksi olen julkaissut raportin hyödyntäen uudenlaista tekniikkaa.
+
+Tämä raportti on avoimen lähdekoodin julkaisu. Kaikki raportin julkaisuun tarvittava lähdekoodit ovat vapaasti ladattavissa. Lähdekoodi kertoo, mistä käytetyt tiedot on haettu, miten niitä on käsitelty ja miten kuviot on piirretty. Raportti on toteutettu [R-ohjelmistolla](https://cran.r-project.org/), joka on myös avoimen lähdekoodin sovellus. 
+
+Julkaisun lähdekoodi on käännetty useampaan julkaisumuotoon ja on saatavilla [nettisivuna](https://www.ilmastoraportti.fi) sekä [pdf](_main.pdf)-, [epub](_main.epub)- ja [mobi](_main.mobi)-muodossa. Digitaalista raporttia on helppo lukea puhelimella, tabletilla, tietokoneella ja e-kirjojen lukulaitteella tai sen voi tulostaa. 
+
+Lukijat voivat ladata julkaisun [lähdekoodin](https://github.com/itkonen/ilmastoraportti) koneelleen ja ehdottaa siihen parannuksia tai korjauksia. Jos raportista löytyy virheitä, voi ne korjata ja päivittää raportin kaikki digitaaliset versiot. Kaikista muutoksista jää digitaalinen jälki, joka on julkisesti nähtävillä. Vastuu raportin sisällöstä ja sen mahdollisista virheistä säilyy allekirjoittaneella. 
+
+Kun lukija saapuu raportin nettisivulle tai lataa pdf-tiedoston, hän saa raportista aina viimeisimmän, korjatun version. Toiveeni on, että lukija voi näin vakuuttua tietojen oikeellisuudesta, tasapainoisuudesta ja ajantasaisuudesta. 
+
+Julkaisutapa on uusi ja kokeellinen. Sen toimivuus riippuu siitä, miten yleisö ottaa raportin vastaan. Toivon runsasta ja asiallista keskustelua ilmastonmuutoksen hillinnän vaihtoehdoista, jotta ilmasto-ongelman ratkaisuun kyettäisiin valitsemaan tarkoituksenmukaiset välineet. 
+
+Mikäli tämä kokeellinen julkaisutapa osoittautuu onnistuneeksi, olisi suotavaa, että jatkossa yhä useammat poliittisen päätöksenteon tueksi laaditut asiakirjat julkaistaisiin tavalla, joka lisää läpinäkyvyyttä ja tukee julkista keskustelua.
+
+Haluaisin kiittää suuresti kaikkia raportin kanssa auttaneita. Erityisesti haluaisin kiittää Outi Honkatukiaa ja Markku Ollikaista asiantuntevista kommenteista. Lisäksi lämmin kiitos kuuluu Penna Urrilalle ja TTT-säätiön hallitukselle, jotka mahdollistivat tämä raportin laatimisen ja jotka näkivät uuden teknologian tuomat mahdollisuudet julkaisutavassa. Kaikista viisaista kommenteista huolimatta vastaan toki mahdollisista virheistä ja puutteista itse.
+
+
+```{block2, type='flushright', html.tag='p', echo = T}
+**Juha Itkonen**
+```
+
+```{block2, type = "info", echo = T}
+*Tehokkaan Tuotannon Tutkimussäätiö* on vuonna 1953 perustettu säätiö, jonka tarkoituksena on yritystoiminnan eri alojen tehokkuuden edistäminen suunnittelemalla, ohjaamalla, valvomalla ja tukemalla tätä varten suoritettavaa tutkimustoimintaa. Säätiön taustayhteisöinä ovat Elinkeinoelämän keskusliitto, Finanssiala ry, Kaupan liitto, Keskuskauppakamari sekä Liikkeenjohdon konsultit ry. Säätiön hallituksen puheenjohtajana toimii DI Aaro Cantell ja asiamiehenä VTM Penna Urrila.
+
+*Juha Itkonen* työskentelee tällä hetkellä yrittäjänä perustamassaan Robonomist Oy:ssä, joka tuottaa palveluita tietotyön automatisointiin, data-analytiikkaan ja dynaamisten dokumenttien tuotantoon. Hän on koulutukseltaan valtiotieteiden tohtori ja luonnontieteiden kandidaatti. Hän on perehtynyt laajasti ilmastonmuutokseen väitöskirjassaan, joka käsitteli ilmastonmuutoksen ja verkostojen taloustiedettä. Aiemmin Itkonen on työskennellyt mm. Suomen Pankissa ekonomistina Suomen talouden ennuste-, seuranta- ja analyysitehtävien parissa. Lisäksi hän on työskennellyt ilmastopolitiikan parissa Valtiovarainministeriössä ja Münchenissä Ifo-instituutissa.
+
+```

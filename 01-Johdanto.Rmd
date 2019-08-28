@@ -1,0 +1,39 @@
+# Johdanto 
+
+Tietoisuus ilmastonmuutoksen riskeistä on lisääntynyt ja  suomalaiset laajasti haluavat toimia ilmastonmuutoksen hillitsemiseksi [@ilmastobarometri2019]. 
+Loppuvuonna 2018 [kahdeksan eduskuntapuoluetta](https://valtioneuvosto.fi/artikkeli/-/asset_publisher/10616/kahdeksan-eduskuntapuoluetta-paatti-yhteisista-ilmastopolitiikan-tavoitteista) linjasi yhteisistä ilmastopolitiikan tavoitteista. Suomi ja EU ovat sitoutuneet Pariisin ilmastosopimuksessa annettuihin päästövähennystavoitteisiin ja päästövähennysten kunnianhimon nostamisesta neuvotellaan. 
+
+Hallitustenvälinen ilmastopaneeli IPCC julkaisi marraskuussa 2018 erikoisraportin, jossa arvioitiin ilmaston 1,5 lämpöasteen nousun vaikutuksia ja mahdollisia polkuja sen estämiseksi. Raportin mukaan ilmaston lämpeneminen yli 1,5 °C aiheuttaisi suurella varmuudella merkittäviä riskejä ihmisille ja luonnolle. Elämän perusedellytykset ovat vaarassa ja riskit terveydelle, elinkeinoille, ruoan- ja vedensaannille, turvallisuudelle sekä talouskasvulle voimistuvat ilmaston lämmetessä. [@IPCC2018.]
+
+Jotta lämpötilan nouseminen yli 1,5 asteen verran voitaisiin estää, se edellyttää nopeita ja laaja-alaisia toimia. Nettopäästöjä tulisi alentaa globaalisti noin 45 prosenttia vuoteen 2030 mennessä verrattuna vuoteen 2010. Vuosisadan puolessavälissä nettopäästöt tulisi saada jo nollaan. Riskit ja kustannukset kasvavat, mikäli ilmastotoimiin ryhtyminen viivästyy. IPCC:n raportti myös toteaa, että Pariisin ilmastosopimuksessa tehdyt sitoumukset eivät suurella varmuudella riitä estämään 1,5 °C lämpenemistä. [@IPCC2018.]
+
+Miten ilmastonmuutosta voidaan hillitä? Vaihtoehtoisia välineitä on runsaasti. Mikäli poliittista tahtoa löytyy, ilmastopolitiikan haasteeksi ei muodostu välineiden puute, vaan tarkoituksenmukaisten välineiden valinta. 
+
+Ilmastopolitiikan välineistä on kertynyt runsaasti sekä tieteellistä tutkimustietoa että kokemuksia käytännön sovelluksista. Meillä on enemmän tietoa ilmastonmuutoksen ratkaisuista kuin ehkä yleisesti tiedostetaan. 
+
+Tässä raportissa esitellään vaihtoehtoisia politiikkavälineitä ilmastonmuutoksen hillitsemiseksi taloustieteellisen tutkimuskirjallisuuden pohjalta. Pyrkimyksenä on tarjota yleistajuinen katsaus välineistä, joilla päätöksentekijät voivat ohjata talouden kohti ilmastotavoitteita.
+
+Ennen vaihtoehtoisten välineiden esittelyä on syytä pohtia, millaisia ominaisuuksia hyvältä ilmastopolitiikalta tulisi odottaa? Millä kriteereillä vaihtoehtoisia välineitä tulisi arvioida, jotta osaamme valita oikeat keinot estää ilmaston yli 1,5 asteen lämpeneminen? 
+
+Pyrkimyksenä on luoda viitekehys, joka auttaa arvioimaan poliittisia vaihtoehtoja ja jäsentämään ilmastokeskustelua. Raportissa tarkastellaan ilmastopolitiikan vaikuttavuutta, kustannustehokkuutta, kannattavuutta sekä oikeudenmukaisuutta. 
+
+Välineet voidaan jaotella seitsemään luokkaan. Näistä keskeisimpiä välineitä ovat päästökauppa ja hiilivero. Lisäksi tarkastellaan kieltoja, sääntelyä, ilmastotukia, hiilitulleja, informaatio-ohjausta sekä teknologisen kehityksen tukia. 
+
+Tarkoituksenmukaisen ilmastopolitiikan kokonaisuudesta on muodostunut tutkimuskirjallisuudessa verrattain yhtenäinen näkemys. Vaikuttava ja kustannustehokas ilmastopolitiikan kokonaisuus perustuu ensisijaisesti hiilidioksidipäästöjen hinnoittelulle, mikä onnistuu markkinaehtoisten välineiden kuten päästökaupan ja hiiliveron avulla. Hiilen hinnoittelu tarkoittaa, että nettopäästöjen aiheuttamisesta koituu niiden tuottajalle kustannus. Hiilen hintaa nostamalla voidaan laskea nettopäästöt tavoitellulle tasolle.
+
+Markkinaehtoisen lähestymistavan tarkoituksena on saada aikaan mahdollisimman suuri ilmastonmuutosta hillitsevä vaikutus ja pienentää siitä aiheutuvia yhteiskunnallisia kustannuksia. Luomalla riittävät taloudelliset kannustimet poliittiset päätöksentekijät voivat ohjata taloudenpitäjät vähentämään nettopäästöjä ja kehittämään siihen tarvittavat teknologiat. Näin päätöksentekijöiden ei tarvitse tuntea syvällisesti kaikkien erilaisten nykyisten ja tulevien tuotantotapojen teknisiä yksityiskohtia tai kuluttajien erilaisia mieltymyksiä.
+
+Hiilen hinnoittelun lisäksi on perusteltua tukea teknologista kehitystä sekä tarjota kuluttajille ja yrityksille päästöjen vähentämistä helpottavaa informaatiota. Ilmastotukien avulla voidaan kannustaa kasvattamaan hiilinieluja ja rahoittaa nettopäästöjen vähennyksiä kansainvälisesti. Mikäli edellä esitetyt välineet eivät ole käytettävissä, on mahdollista myös säännellä päästöjä aiheuttavaa toimintaa suoraan.
+
+Ilmastopolitiikan kokonaisuuden suunnittelussa tulisi huomioida ilmastopolitiikan globaali luonne ja välttää päällekkäisiä välineitä. Myös kotimaisen ilmastopolitiikan tulisi tähdätä ensisijaisesti globaalien nettopäästöjen vähentämiseen, mikä on ilmastonmuutoksen hillinnässä olennaisinta. 
+
+Tutkimuskirjallisuuden perusteella näyttää selvältä, että ilmastonmuutoksen pysäyttämiseksi on olemassa kaikki tarvittavat politiikkavälineet.
+
+Tämän raportin luvussa \@ref(ominaisuuksia) esitellään ilmastopolitiikan välineiltä toivottavia ominaisuuksia, joiden valossa välineitä tarkastellaan luvussa \@ref(valineet). Luvussa \@ref(arkkitehtuuri) pohditaan ilmastopolitiikan arkkitehtuuria eli välineiden muodostamaa kokonaisuutta Suomessa ja kansainvälisesti. Lopuksi keskeisimmät havainnot vedetään yhteen.
+
+
+
+
+
+
+

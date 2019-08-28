@@ -1,0 +1,13 @@
+# Yhteenveto
+
+Tieteellinen kirjallisuus ilmastonmuutoksen politiikkavälineistä ulottuu noin sata vuotta historiaan. Voidaan melkeinpä sanoa, että ratkaisut ovat vanhempia kuin ongelma itse. Tärkeimmät ratkaisun elementit ovat jo puoli vuosisataa vanhoja.
+
+Vaikuttavan ja kustannustehokkaan ratkaisun pääpiirteistä on taloustieteessä muodostunut verrattain vakiintunut käsitys. IPCC on käynyt läpi politiikkavälineitä käsittelevää tutkimuskirjallisuutta säännöllisesti alkaen vuonna 1990 julkaisusta ensimmäisestä arviointiraportista. Kuudes arviointiraportti on määrä julkaista vuonna 2021. Samansuuntaisiin politiikkasuosituksiin päätyi myös vuonna 2006 julkaistu Sternin raportti, joka nosti ilmastonmuutoksen osaksi laajempaa taloudellista keskustelua [@ster07].
+
+Hiilen hinnoittelu päästökaupan tai hiiliveron avulla on ilmastopolitiikan ensisijainen väline. Hiilen hinnoittelulla nettopäästöjä voidaan vähentää vaikuttavasti ja kustannustehokkaasti. Toiseksi ilmastopolitiikasta koituvia kustannuksia voidaan keventää tukemalla innovaatiotoimintaa, joka tuottaa teknologisia ratkaisuja ja edistää niiden käyttöönottoa. Kolmanneksi yritysten ja kuluttajien ympäristöystävällistä käyttäytymistä voidaan tukea tarjoamalla tietoa ilmastovaikutuksista erilaisten valintojen tueksi. Neljänneksi tukien avulla voidaan kannustaa hiilinielujen kasvattamiseen ja päästövähennyksiin kansainvälisesti. Viidenneksi päästöihin voidaan puuttua suoran sääntelyn keinoin, mikäli ulkoisvaikutuksia ei kyetä muilla välineillä ratkaisemaan.
+
+Ilmastonmuutoksen hillitsemiseen on siis olemassa tarvittavat välineet. Toimimalla nopeasti ja valitsemalla välineet viisaasti, ilmastonmuutoksen hallitsematon kiihtyminen on yhä mahdollista estää.
+
+
+# Lähteet {-}
+

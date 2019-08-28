@@ -1,0 +1,389 @@
+# Ilmastopolitiikan ohjauskeinot {#valineet}
+
+Ilmastonmuutoksen hillitsemiseen löytyy laaja kirjo erilaisia välineitä. Ympäristö- ja taloustieteilijät ovat tutkineet ja kehittäneet viime vuosisadan aikana monenlaisia politiikkatyökaluja, ja niiden soveltamisesta on kertynyt runsaasti kokemuksia ympäri maailmaa. Työkalujen ominaisuuksia tunnetaan jo varsin hyvin. 
+
+Taloustieteen perusvälineet ympäristöongelmien ratkaisemiseen muotoutuivat pääpiirteissään jo 1950- ja 1960-luvuilla [ks. @tiet06]. Ajatus ympäristöongelmien hillitsemisestä verotuksella on peräisin jo 1920-luvulta. 
+
+@Pigou1920 esitti, että verotuksella voitaisiin luoda talouden toimijoille kannustimet, jotta he huomioisivat paremmin sivullisille aiheutuneita haittoja. @coas60 oivalsi, että periaatteessa osapuolet voisivat ratkoa ympäristöongelmia myös keskenään, kunhan juridiset oikeudet päästöjen tuottamiseen ovat hyvin määriteltyjä ja neuvoteltavissa. @dale68 ja @croc66 jalostivat tästä ajatuksen päästömarkkinoista. Taloustieteellisessä kirjallisuudessa kasvihuonekaasupäästöjen aiheuttama uhka on huomioitu jo 1960-luvulla [@dale68]. 
+
+Tiettävästi hiiliveroa ehdotettiin ensimmäisen kerran  [Yhdysvalloissa](http://news.mit.edu/2013/emeritus-david-wilson-was-early-proponent-concept-energy-use-fees) jo 1970-luvulla ja Suomi oli vuonna 1990 ensimmäinen maa, joka sellaisen otti käyttöön. 
+Päästökauppaa puolestaan hyödynnettiin ensimmäisen kerran käytännössä Yhdysvalloissa vuonna 1977, kun uusi ilmansaastelaki (Clean Air Act) mahdollisti ylimääräisten päästövähennysten hyödyntämisen muiden päästölähteiden kompensoinnissa [@tiet06].
+
+Ilmastonmuutoksen hillinnän välineitä voidaan luokitella monin tavoin [ks. esim. @Aldy2010; @Hanley2007; @Sterner2013; @Stavins2003]. Tässä raportissa välineet on jaoteltu seitsemään luokkaan, joista voidaan erotella kolme pääluokkaa: 
+
+1. **Kiellot ja sääntely** perustuvat päätöksentekijöiden suoraan ohjaukseen siitä, mitä ja miten taloudessa tuotetaan ja kulutetaan. 
+2. **Markkinaehtoiset välineet** sallivat talouden toimijoille vapauden valita itse toimintatavat, joilla päästövähennys saadaan aikaiseksi. Markkinaehtoisiksi voidaan luokitella päästökauppa sekä hiiliverot ja -tullit sekä osa ilmastotuista. 
+3. **Markkinakitkoja vähentävät välineet** kuten informaatio-ohjaus ja teknologisen kehityksen tukeminen oikovat epäsuorasti ilmastonmuutokseen kytkeytyviä markkinahäiriöitä.
+
+Seuraavassa välineet käydään yksitellen läpi ja pohditaan hyviä ja huonoja puolia [edellisessä luvussa esitettyjen ominaisuuksien](#ominaisuuksia) valossa.
+
+
+## Kiellot ja sääntely {#kiellot}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Kiellot ja sääntely ovat kalliita välineitä, joille usein löytyy parempia vaihtoehtoja.
+- Kiellot eivät huomioi yksilöiden välisiä eroja päästöjen vähentämisen kustannuksissa. 
+- Sääntely voi estää yrityksiä käyttämästä parhaita mahdollisia keinoja päästöjen vähentämiseen.
+
+```
+
+Yksinkertaisin tapa vähentää päästöjä on kieltää tai rajoittaa sääntelyllä päästöjä tuottavaa toimintaa. Silloin ohjataan suoraan sitä, mitä ja miten taloudessa tuotetaan tai kulutetaan. Pääsääntöisesti kiellot ja sääntely ovat ilmastopolitiikan välineinä kalliita ja aiheuttavat tarpeettomia hyvinvointitappioita. Suoralle ohjaukselle löytyy usein kustannustehokkaita vaihtoehtoja.
+
+Valtaosa kasvihuonekaasupäästöistä syntyy lähteistä, joiden toimintaan on hallinnollisesti verrattain helppo puuttua. Suuria määriä päästöjä on vaikea tuottaa viranomaisilta salassa. Fossiilisten polttoaineiden maahantuonti, jalostaminen ja jakelu ovat jo nykyisellään tarkasti säänneltyjä toimialoja. Lisäksi teollisuuden päästöt syntyvät isoissa tuotantolaitoksissa, joita viranomaisen on helppo valvoa. Samoin laajamittaista maataloutta on vaikea harjoittaa lainsäätäjän tietämättä. 
+
+On monta eri tapaa, jolla julkinen sektori voi puuttua päästöjä tuottavaan toimintaan. Suoranaisia kieltoja lievempänä keinona voidaan määrittää yrityskohtaisia päästökiintiöitä. Silloin sääntelijä joutuu päättämään, kuinka paljon kukin yritys saa tuottaa. 
+
+Sääntelyllä voidaan myös estää sellaisia toimintamuotoja (kuten teknologisia valintoja), jotka synnyttävät runsaasti päästöjä. Sääntelyllä voidaan esimerkiksi velvoittaa yrityksiä käyttämään vähäpäästöisempiä teknologisia vaihtoehtoja.
+
+Vaikka kieltojen ja sääntelyn avulla voitaisiin puuttua päästöjä aiheuttavaan toimintaan melko suoraan, niiden keskeisenä ongelmana on korkea kustannus. Kielto saattaa estää sellaisia toimia, joiden hyöty kuluttajille tai arvo yrityksille on huomattavan suuri suhteessa päästöjen aiheuttamaan haittaan. [Ks. @IPCCwg3ar5.]
+
+### Epäsymmetrinen informaatio
+
+Kieltojen ja sääntelyn heikko kustannustehokkuus johtuu perimmiltään siitä, että sääntelijällä on  rajallisesti tietoa sääntelyn kohteista. Sääntelijän on vaikea saada luotettavaa tietoa siitä, mitä kukin kuluttaja arvostaa ja miten erilaiset yritykset kykenevät vähentämään päästöjään. Paras tieto kuluttajien mieltymyksistä ja yritysten kyvyistä on heillä itsellään. 
+
+Taloustieteessä tällaista asetelmaa kutsutaan epäsymmetriseksi informaatioksi. Kieltoja ja säännöksiä on vaikea asettaa siten, että ne huomioisivat yksilöiden väliset erot päästöjen vähentämisen kustannuksissa.
+
+Osalle ihmisistä esimerkiksi polttomoottoriautosta luopuminen saattaa merkitä suurta heikennystä subjektiiviseen hyvinvointiin. Toisille taas kulkumuodon vaihtaminen ei tuota suurempaa haittaa. Ne, joille autosta luopuminen on suuri menetys, saattaisivat olla halukkaita vähentämään vastaavan ja jopa suuremman määrän päästöjä muilla keinoilla.
+
+Ilmaston kannalta ei ole olennaista merkitystä, millä toimilla päästöjä vähennetään, mutta ihmisille sillä voi olla suuri merkitys. Kiellot ja sääntely eivät anna  mahdollisuutta vähentää päästöjä tavalla, joka on kullekin vähiten kivulias. Siten ilmastopolitiikasta aiheutuu ihmisille tarpeetonta vahinkoa.
+
+Kun sääntely määrittää tuotantotapoja, se voi myös rajoittaa yritysten mahdollisuutta kehittää uusia teknologisia ratkaisuja päästöjen vähentämiseen. 
+
+Yritysten välillä voi olla suuria eroja siinä, kuinka edullisesti ne kykenevät vähentämään päästöjä. Yhden yrityksen saattaa olla helppo vaihtaa vähäpäästöisempään tuotantoteknologiaan, kun taas toiselle se on mahdotonta tuotantoa lakkauttamatta. 
+
+Haluttu päästövähennys saavutetaan matalammilla kustannuksilla, jos päästövähennykset toteutetaan yrityksissä, joissa se on helpointa. Koska sääntelijällä on rajallisesti tietoa eri yritysten tuotantomahdollisuuksista, se ei tiedä, mikä on paras paikka vähentää päästöjä. Siksi sen on vaikea määrittää, kuinka paljon kenenkin pitäisi vähentää päästöjä. Lisäksi yrityskohtaisiin kiintiöihin liittyy merkittävä korruption riski, kun viranomaiset joutuvat päättämään arvokkaiden kiintiöiden jakamisesta [@Sterner2013].
+
+Informaation epäsymmetria näkyy myös siinä, että yritykset kärsivät epävarmuudesta tulevan sääntelyn suhteen. Kiellot voivat aiheuttaa merkittäviä taloudellisia tappioita, jos niiden seurauksena jo hankitut koneet ja laitteet muuttuvat käyttökelvottomiksi. Silloin yritykset joutuvat kirjaamaan alas aiempia investointeja tai myymään koneita ja laitteita ulkomaille.
+
+### Kiellot harvoin paras vaihtoehto
+
+Ympäristötaloustieteilijöiden keskuudessa onkin varsin vahva näkemys, että useimmissa tapauksissa kiellot ja sääntely ovat tehottomia välineitä, joille löytyy parempia vaihtoehtoja.
+
+Kiellot ja sääntely voivat kuitenkin olla perusteltu ratkaisu tietyissä rajatapauksissa. Kielto voi olla tehokas väline tapauksissa, joissa on perusteltu syy ohjata kaikki toimijat käyttämään yhtä tiettyä teknologiaan. Samoin, jos yritysten välillä ei ole olennaisia eroja, kieltoja joustavammat ohjauskeinot saavat aikaan vain vähän kustannussäästöjä [@Newell2003]. Tapauksissa, joissa toiminnan haitta ympäristölle on suuri, taloudellinen hyöty vähäinen ja vaihtoehtoinen teknologia edullinen, kielto voi olla yksinkertainen tapa ohjata tuotantotapoja. 
+
+Jos kielto on mahdollista toimeenpanna vaiheittain, toimeenpanossa voidaan hyödyntää markkinamekanismeja, jotka lieventävät sopeutumisen kustannuksia. Asteittain kiristyvän [hiiliveron](#hiilivero) tai [päästökaupan](#paastokauppa) avulla voidaan lähestyä täyskieltoa pehmeämmin. Esimerkiksi vuonna 1987 allekirjoitettu Montrealin pöytäkirja, joka rajoitti otsonikatoa aiheuttavien aineiden käyttöä, mahdollisti päästökaupan hyödyntämisen sopimuksen toimeenpanossa [@tiet06].
+
+<!-- Kieltojen ja sääntelyn suora vaikutus päästöihin voi olla helppo määrittää. Toimien epäsuorien vaikutusten arviointi on usein hankalampaa. Vaikuttavuuden kriteerikään ei täyty kaikissa tapauksissa. Kiellot ja sääntely ei lähtökohtaisesti vaikuta päästöihin silloin, kun ne kohdistuvat päästökauppasektorille [@Goulder2011; @goul11].  -->
+
+
+## Päästökauppa {#paastokauppa}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Päästökauppa on vaikuttava ja kustannustehokas tapa vähentää päästöjä.
+- Päästökaupassa luodaan rajallinen määrä kaupattavia oikeuksia päästöjen tuottamiseen.
+- Päästöoikeuksien määrää supistamalla päästöt saadaan vähenemään niin paljon kuin halutaan.
+
+```
+
+Päästökaupan perusidea on luoda rajallinen määrä kaupattavia oikeuksia päästöjen tuottamiseen. Päästöoikeus antaa omistajalleen luvan tuottaa määrätyn määrän kasvihuonekaasupäästöjä. Jos päästöoikeuden myy pois, siirtyy myös lupa tuottaa päästöjä uudelle omistajalle. Päästöoikeuksien kokonaismäärä määrittää, kuinka paljon päästöjä kaiken kaikkiaan on lupa tuottaa. 
+
+Päästökauppa on lienee eniten käytetty väline kasvihuonekaasupäästöjen vähentämiseen. Päästökauppajärjestelmiä on perustettu useita myös hillitsemään muita ympäristöongelmia kuten happosadetta ja otsonikatoa. Päästökaupan toimintaperiaate on varsin yksinkertainen, mutta siihen myös liittyy monia yleisiä väärinkäsityksiä.
+
+### Päästöille yläraja
+
+Päästökaupassa päätöksentekijä valitsee päästöoikeuksien määrän ja siten asettaa ylärajan päästöjen kokonaismäärälle. Toisin sanoen päästökaupassa päästöjen määrä on poliittinen päätös. Tämä on päästökaupan ominaisuus, jonka kaikkia seurauksia ei tule helposti ajatelleeksi. 
+
+Ennen kaikkea se tarkoittaa, että päätöksentekijöiden ei tarvitse murehtia siitä, saavutetaanko haluttu päästötavoite. Päästökauppajärjestelmä pitää huolen, että päästöt vähenevät niin paljon kuin on päätetty.
+
+Lisäksi se tarkoittaa, että normaalioloissa talouden toimijat eivät voi vaikuttaa tuotanto- ja kulutuspäätöksillään päästöjen kokonaismäärään. Kulutuksen lisääminen tai vähentäminen ei lisää eikä vähennä kokonaispäästöjä. Jos joku lisää päästöjään, hän joutuu ostamaan lisää päästöoikeuksia, jolloin joku toinen joutuu vähentämään päästöjään.
+
+Jos päätöksentekijä haluaa vähentää päästöjen kokonaismäärää entisestään, sen tarvitsee vain luoda vähemmän päästöoikeuksia. Vastaavasti kuka tahansa voi vähentää kokonaispäästöjä ostamalla päästöoikeuksia ja jättämällä ne käyttämättä.
+
+Päästöoikeudet voidaan jakaa niitä tarvitseville joko huutokauppaamalla tai antamalla ilmaiseksi. Ilmaisjako voi perustua esimerkiksi aiempiin päästöihin tai se voi määräytyä alan tehokkaimpien tuotantolaitosten päästöjen mukaan (benchmarking). Jakotapa ei vaikuta päästöjen kokonaismäärään, kunhan päästöoikeuksien määrää ei muuteta.
+
+```{block2, type = "laatikko", echo = TRUE}
+### Olennaista on päästöoikeuksien määrä
+
+Päästökaupan normaalioloilla tarkoitetaan tilannetta, jossa päästöoikeuksista on niukkuutta eli niillä on nollaa korkeampi hinta. Kun päästöoikeuksista ei ole niukkuutta, päästöjen lisäämien ei edellytä päästöjen vähentämistä toisaalla. Tässäkään tapauksessa päästöjen kokonaismäärä ei voi ylittää päästöoikeuksien kokonaismäärää. Normaaliolot voi aina palauttaa vähentämällä päästöoikeuksien määrää niin, että päästöoikeuksista on jälleen niukkuutta. (Ks. myös alaluku \@ref(paallekkaiset).)
+
+Jos ilmaisjaon osuus on kovin suuri, se voi heikentää kustannustehokkuutta, vaikkei vaikutakaan päästöjen määrään [@hahn84, @lisk11]. Huutokaupan osuuden kasvattaminen lisää päästöoikeuksien hintaan liittyvää epävarmuutta yrityksille, mutta toisaalta kannustaa voimakkaammin vähäpäästöisen teknologian kehittämiseen [@IPCCwg3ar5].
+```
+
+
+### Päästömarkkinat ohjaavat päästöoikeudet oikeaan paikkaan
+
+Päästömarkkinat eli kaupankäynti päästöoikeuksilla johtaa normaalioloissa siihen, että kaikki päästöoikeudet käytetään. Mikäli päästöjä vähennetään yhdessä paikassa, päästöoikeuksia vapautuu markkinoille myytäväksi. Päästöoikeuksien myynti painaa hintaa alas, kunnes niille löytyy uusi ostaja.
+
+On tärkeä painottaa, että päästöoikeuksien siirtyminen omistajalta toiselle ei ole ongelma ilmastopolitiikan vaikuttavuuden kannalta. Päästökaupassa päätöksentekijä määrittää vaikuttavuuden suoraan.^[Jos päätöksentekijä haluaa vähemmän päästöjä, hän voi aina kiristää päästötavoitetta eli luoda vähemmän päästöoikeuksia.]
+
+Sen sijaan päästöoikeuksien siirtyminen on keskeinen edellytys kustannustehokkuudelle. Päästömarkkinat ohjaavat päästöoikeudet sinne, missä niiden arvo on suurin, tai kääntäen, missä päästöjen vähentämisen kustannus on pienin.^[Päästökaupan voi ajatella olevan laajennus perinteisestä sääntelystä, jossa sääntelijä määrää yrityskohtaiset päästökiintiöt. Päästökauppa vain lisää toimijoille mahdollisuuden siirtää osan kiintiöstä muille.]
+
+Päästökauppaan velvoitetun yrityksen näkökulmasta sillä on kaksi vaihtoehtoa: sen on joko vähennettävä päästöjään tai ostettava päästöoikeuksia. Yrityksellä on siis taloudellinen kannustin arvioida, millä hinnalla se kykenee vähentämään omia päästöjään. Päästöjen vähentäminen kannattaa, jos se onnistuu päästöoikeuksien markkinahintaa edullisemmin. Jos päästöoikeuksien ostaminen on edullisempaa, päästöjen on vähennyttävä jossain muualla.
+
+Usein päästökauppajärjestelmät sallivat tiettynä vuonna myönnettyjen päästöoikeuksien tallettamisen tuleville vuosille. Päästöoikeuksien tallennusmahdollisuus vakauttaa päästömarkkinoita. Se auttaa välttämään tilannetta, jossa päästöoikeudet loppuvat yllättäen kesken, mikä pakottaisi sulkemaan tuotantolaitoksia.
+
+Se, että joinain vuosina myönnettyjä päästöoikeuksia jää käyttämättä, ei vielä välttämättä poista niukkuutta päästömarkkinoilta. Ylimääräisiä päästöoikeuksia saatetaan pitää varastossa tulevan varalle ja niille on myös spekulatiivista kysyntää. Niin kauan kuin päästöoikeuksien hinta on positiivinen, päästökauppaan velvoitetuilla yrityksillä on edellä kuvattu taloudellinen kannustin vähentää päästöjään.
+
+### Hiilikrediitit ja päästökompensaatiot {#hiilikrediitit}
+
+Nettopäästöjen vähennyksistä voidaan myöntää hiilikrediittejä (carbon credits), jotka ovat kaupattavia tositteita mitatuista ja vahvistetuista ilmastotoimista. Krediittien taustalla voi olla esimerkiksi hankkeita, joissa istutetaan metsiä tai parannetaan energiatehokkuutta. Hiilikrediittien avulla on mahdollista hyödyntää päästökaupan tavoin markkinamekanismia ja kannustaa nielujen kasvattamiseen tai päästöjen vähentämiseen kustannustehokkaasti. Krediittejä voidaan käyttää rahoittamaan ilmastotoimia myös maan rajojen ulkopuolella. 
+
+Jotta hiilikrediiteille syntyisi markkinat, jonkun on haluttava ostaa niitä. Krediiteille syntyy kysyntää, jos jokin päästökauppajärjestelmä sallii niiden käytön päästöoikeuksien korvikkeena [@Itkonen2009]. Hiilikrediittejä ostavat usein myös tahot, jotka haluavat kompensoida aiheuttamia päästöjään.^[Tällöin puhutaan usein päästökompensaatioista (carbon offset), mutta käsitteistö ei ole erityisen vakiintunutta.]
+
+```{block2, type = "laatikko", echo = TRUE}
+### Mitä krediittien saaminen edellyttää?
+
+Krediittien myöntämisen tärkeitä periaatteita ovat mitattavuus, lisäisyys, pysyvyys ja verifioitavuus. Krediittejä hakevien hankkeiden vaikutusten mitattavuus on tärkeää, jotta krediittejä myönnetään oikea määrä. Usein hankkeet liittyvä juurikin luonnollisiin hiilinieluihin, joiden mittaaminen on erityisen haastavaa.
+
+Lisäisyys tarkoittaa, että hankkeesta syntyy nettopäästöjen vähennyksiä, jotka eivät olisi toteutuneet ilman krediittien tuomaa taloudellista tukea. Tämä edellyttää arviota siitä, miten päästöt ja nielut kehittyisivät ilman hanketta (business-as-usual baseline) ja olisiko projekti taloudellisesti kannattava myös ilman krediittejä. 
+
+Hankkeiden vaikutusten pysyvyys tarkoittaa, että ilmakehästä poistettu hiilidioksidi myös pysyy poissa. Varsinkin metsityshankkeiden avulla syntyneet hiilen poistot voivat helposti kumoutua, jos maankäyttöä muutetaan hankkeen jälkeen ja hiili palaa jälleen kiertoon.
+
+Käytännössä krediittien vaikutuksen arvioiminen on hyvin haastavaa, joten niitä on päädytty myöntämään myös perusteetta [@Warnecke2019; @Schneider2011; @Schneider2019]. Krediittijärjestelmien käytöstä on kertynyt kokemusta ja niiden luotettavuus on osin parantunut, mutta niihin liittyy yhä varteenotettavia riskejä, jotka on tärkeä tiedostaa. Luotettavuuden parantamiseksi krediittien saaminen edellyttää aina, että riippumaton kolmas osapuoli verifioi eli todentaa nettopäästöjen todella vähentyneen.
+```
+
+### Ongelmat syövät krediittien käytön hyötyjä
+
+Jos krediittien perusteena olevat päästövähennykset eivät toteudu täysimääräisinä, ilmastotoimien vaikuttavuus jää ennakoitua heikommaksi. Mikäli krediitit on linkitetty päästökauppajärjestelmään, eli niitä voidaan käyttää kuten päästöoikeuksia, krediittien laatuongelmat voivat johtaa nettopäästöjen lisääntymiseen. Ongelmaa voi lievittää edellyttämällä, että krediittejä on hankittu enemmän kuin niillä korvattavia päästöjä. 
+
+Krediittien päästövähennysten epävarmuus ja laatuongelmat ei kuitenkaan välttämättä tee krediittien hyödyntämisestä täysin kustannustehotonta tai kannattamatonta. Krediittien avulla rahoitettujen ilmastotoimet voivat olla kokonaisuudessaan hyvin edullisia ja keskimäärin vaikuttavia, vaikka yksittäiset hankkeet jäävätkin tavoitteistaan. 
+
+```{block2, type = "laatikko", echo = TRUE}
+### Päästökaupan pitkät perinteet
+
+Tiettävästi ensimmäinen käytännön sovellus päästökaupasta oli Yhdysvalloissa vuonna 1977 säädetty ilmansaastelaki (Clean Air Act), jonka markkinaehtoisia joustomekanismeja laajennettiin myöhemmin kokonaisvaltaiseksi päästökauppaohjelmaksi (Emissions Trading Program). 1980-luvulla päästökauppaa hyödynnettiin Yhdysvalloissa öljynjalostuksessa, kun lyijyn käyttö bensiinissä kiellettiin vaiheittain, ja otsonikatoa hillitsevän Montrealin sopimuksen toimeenpanossa. Myös 1990-luvulla aloittanut rikki- ja typpioksidipäästöjä rajoittava happosadeohjelma (Acid Rain Program) perustui päästökauppaan. [@tiet06].
+
+Kasvihuonekaasupäästöjen hillintään päästökauppaa on hyödynnetty laajasti aina Kioton pöytäkirjan solmimisesta saakka. Kioton pöytäkirja mahdollisti päästökiintiöiden kaupan maiden välillä ja sisälsi erilaisia joustomekanismeja. Näistä merkittävimpänä Puhtaan kehityksen mekanismi (Clean Development Mechanism, CDM) salli teollisuusmaiden hyödyntää tavoitteissaan päästöjä vähentäviä ja nieluja lisääviä hankkeita kehitysmaissa. EU:n päästökauppajärjestelmä on yhä maailman suurin hiilimarkkina. Maailmanpankin katsauksen mukaan vuonna 2018 maailmassa oli käytössä tai astumassa voimaan yhteensä 25 kansallista tai alueellista päästökauppajärjestelmää [@WB2018b].
+```
+
+## Hiilivero
+
+```{block2, type = "tiivis", echo = TRUE}
+- Hiilivero on vaikuttava ja kustannustehokas väline päästöjen vähentämiseen.
+- Hallinnollisesti hiilivero on usein päästökauppaa yksinkertaisempi.
+- Hiilivero asettaa hinnan päästöille, mutta päästöjen määrä määräytyy markkinoilla.
+
+```
+
+Hiilivero on vero, jonka määrä suhteutuu hyödykkeen aiheuttamiin kasvuhuonekaasupäästöihin. Hiiliveron perusajatuksena on tehdä runsaspäästöisistä hyödykkeistä kalliimpia suhteessa vähäpäästöisiin vaihtoehtoihin. Siten se ohjaa tuotantoa ja kulutusta kestävämpään suuntaan.
+
+Hiilivero on päästökaupan rinnalla toinen kahdesta tärkeimmästä välineestä ilmastopolitiikan työkalupakissa. Vuoteen 2018 mennessä oli otettu käyttöön 26 kansallista tai alueellista hiiliveroa [@WB2018b]. Vuonna 2019 hiilivero otetaan käyttöön [Argentiinassa ja Etelä-Afrikassa](https://carbonpricingdashboard.worldbank.org/map_data).
+
+### Hiilivero on kustannustehokas
+
+Hiilivero on päästökaupan tavoin markkinaehtoinen ohjauskeino eli se kannustaa talouden toimijoita löytämään itselleen parhaat tavat vähentää päästöjä. Hiilivero on siten myös kustannustehokas, eikä edellytä päätöksentekijöiltä täydellinen tietoa yritysten tuotantomahdollisuuksista ja kuluttajien mieltymyksistä.
+
+Hiilivero toteuttaa *saastuttaja maksaa* -periaatteen eli veron aiheuttama kustannus koituu niille, joiden toiminnasta päästöt aiheutuvat. Hiiliverosta muodostuu valtiolle tulovirta, jonka voi hyödyntää monin tavoin (ks. luku \@ref(hiilitulot)).
+
+Hiilivero on esimerkki haittaverosta, jonka perusajatus on jo noin 100 vuotta vanha. @Pigou1920 argumentoi, että oman edun tavoittelu markkinoilla ei johda yhteiskunnallisesti parhaaseen lopputulokseen, mikäli talouden toimijat eivät huomioi kaikkia sivullisille aiheuttamiaan kustannuksia. Taloustieteessä näitä kutsutaan yleisesti ulkoisvaikutuksiksi. 
+
+Ongelman voi ratkaista verolla, jonka suuruus vastaa sivullisille aiheutuneita kustannuksia. Tällöin taloudellinen toiminta on oman edun näkökulmasta kannattavaa vain, jos sen arvo on suurempi kuin kaikille osapuolille koituvat kustannukset yhteensä.
+
+Hiiliveron oikean tason määrittäminen on käytännössä haastavaa. Yksinkertaisessa teoreettisessa tarkastelussa hyvinvoinnin maksimoiva hiilivero vastaa kasvihuonekaasupäästöjen sosiaalista rajakustannusta. Sosiaalisella rajakustannuksella tarkoitetaan yhden päästötonnin lisäämisen aiheuttamaa kustannusta globaalisti. Sen määrittäminen on varsin hankalaa [@Pindyck2017] ja arviot sen suuruudesta vaihtelevat merkittävästi [@Nordhaus2017; @Wang2019; @Pindyck2017b].
+
+### Hiilivero ja päästökauppa ovat lähisukulaisia
+
+Hiilivero ja päästökauppa ovat monin tavoin läheistä sukua, mutta hinnan ja määrän sääntelyn suhteen ne ovat toistensa peilikuvia. Hiilivero asettaa päästöjen hinnan ja antaa markkinoiden määrittää määrän. Päästökauppa puolestaan asettaa päästöjen määrän ja antaa markkinoiden määrittää hinnan. 
+
+Hiiliveron avulla päätöksentekijä voi siis asettaa suoraan päästöjen hinnan mutta ei määrää. Päästöjen määrä riippuu siitä, kuinka paljon talouden toimijat ovat halukkaita tuottamaan päästöjä, kun niistä joutuu hiiliveron muodossa maksamaan. Vaikka tarkkaa päästövähennyksen määrää ei tiedä etukäteen, päästöjen määrä voidaan aina supistaa nostamalla hiiliveroa. Jos hiiliveron nostaa äärimmäisen korkealle, se vastaa käytännössä kieltoa.
+
+Päästökaupan avulla päätöksentekijä voi puolestaan asettaa suoraan päästöjen määrän mutta ei hintaa. Päästöille muodostuu hinta päästömarkkinoilla, kun toimijat ostavat ja myyvät päästöoikeuksia.
+
+Hiiliveron ja päästökaupan avulla voidaan periaatteessa ohjata samaan lopputulokseen. Jos päästökauppajärjestelmän korvaisi hiiliverolla, joka vastaa päästöoikeuksien hintaa, hiilivero tuottaisi päästöoikeuksien verran päästöjä. Vastaavasti jos hiiliveron korvaisi päästökauppajärjestelmällä, jossa päästöoikeuksien määrä vastaisi hiiliveron kanssa toteutunutta päästömäärä, päästöoikeuksien hinta asettuisi hiiliveron suuruiseksi.^[Yksinkertaisessa teoreettisessa asetelmassa voidaan osoittaa, että epävarmuus liittyen päästöjen vähentämisen rajakustannuksiin ja -hyötyihin ja näiden jyrkkyys vaikuttaa valintaan hiiliveron ja päästökaupan välillä. Koska yksittäisen maan päästöjen vaikutus rajahyötyyn on pieni ja päästöjen vähentämisen kustannuksiin liittyy epävarmuutta, hiilivero on hyvinvoinnin kannalta optimaalinen väline. [@Weitzman1974].]
+
+Päästökaupasta ja hiiliverosta on mahdollista muodostaa yhdistelmiä [@Goulder2013b]. Päästökauppaan voidaan luoda hintakatto tai -lattia, jolloin se muistuttaa ääritapauksissa hiiliveroa. Hintakaton tapauksessa sääntelijä sitoutuu luomaan lisää päästöoikeuksia, jos niiden hinta ylittää tietyn rajan. Hintalattia syntyy, jos sääntelijä jättää osan oikeuksista myymättä tai ostaa oikeuksia pois markkinoilta, kun hinta alittaa tietyn rajan. Näissä ääritapauksissa päästöjen vähentämisen kustannus asettuu tiettyyn rajaan, mutta päästömäärä määräytyy markkinoilla. Vastaavasti hiilivero voidaan ehdollistaa päästöjen määrälle. Hiiliveroa voidaan nostaa, jos päästöt ylittävät tietyn rajan, tai laskea, kun päästöjä syntyy tavoiteltua vähemmän.
+
+```{block2, type = "laatikko", echo = TRUE}
+### Hiilivero vai päästökauppa? {#verovaikauppa}
+
+Taloustieteilijät vaikuttaisivat olevan varsin yksimielisiä siinä, että ensisijaisena ohjauskeinona tulisi olla joko hiilivero tai päästökauppa. Näiden kahden vaihtoehdon välillä on mieltymyseroja. [Yhdysvalloissa](https://www.clcouncil.org/economists-statement/) [hiilivero](http://www.igmchicago.org/surveys/climate-change-policies) on selvästi suositumpi, mutta [Suomessa](http://www.ekonomistikone.fi/kysymys-49/) molemmat ovat suunnilleen yhtä suosittuja. Se, suosiiko hiiliveroa vai päästökauppaa, riippunee siitä, miten poliittisesti toteutuskelpoisena kumpikin vaihtoehto nähdään. 
+
+Usein hiiliveron arvioidaan olevan hallinnollisesti päästökauppaa edullisempi. Verojen keräämisen institutionaaliset rakenteet ovat pidemmälle kehittyneitä, mutta myös päästökaupasta on kertynyt paljon käyttökokemuksia.
+
+Euroopassa päästökaupan etuna voidaan pitää, että sen avulla taakanjako maiden välillä on läpinäkyvämpää. Hiiliveron todellisia veroasteita on vaikea vertailla maiden välillä, sillä kansalliset verojärjestelmät ovat erilaisia ja maat käyttävät laajaa budjettivaltaa. Hiiliveron kotimainen vaikutus on helppo vesittää esimerkiksi alentamalla muita verokantoja tai lisäämällä tuotantotukia. Päästökaupassa tällaiset toimet johtaisivat vain päästöjen siirtymiseen maiden välillä.
+```
+
+## Ilmastotuet
+
+```{block2, type = "tiivis", echo = TRUE}
+- Tukien vaikuttavuus ja kustannustehokkuus riippuu tapauksesta.
+- Tuki vähäpäästöiselle tuotannolle voi jopa lisätä päästöjä.
+- Tuet ovat kustannustehokas väline hiilinielujen lisäämiseen.
+
+```
+
+Julkinen valta voi monin tavoin antaa rahallista tukea nettopäästöjä vähentävälle toiminnalle. Ilmastotukien avulla voidaan tehdä päästöttömistä tai vähäpäästöisistä vaihtoehdoista muita edullisempia.
+
+Yhtäältä ilmastotuet voivat olla markkinaperustaisia ohjauskeinoja. Esimerkiksi tuki voi toimia ikään kuin negatiivinen hiilivero, jolloin rahan keräämisen sijaan veronmaksajat kustantavat hiilinielujen ylläpitämisen. Tuki voi myös perustua päästökauppamekanismiin. Julkinen sektori voi esimerkiksi ostaa [hiilikrediittejä](#hiilikrediitit) markkinoilta. 
+
+Toisaalta tuki voidaan myös kohdistaa suoraan johonkin tiettyyn toimintaan tai teknologiaa. Suoran tuen tapauksessa sääntelijä valitsee tuettavan kohteen, mikä edellyttää perusteellista tietoa teknologisista vaihtoehdoista.
+
+### Kustannustehokas kannustin päästöjen poistolle
+
+Yksinkertaisessa tarkastelussa markkinaehtoiset ilmastotuet näyttävät symmetriseltä vaihtoehdolta hiiliveroille ja päästökaupalle. Syvällisempi tarkastelu kuitenkin osoittaa olennaisia eroja niiden ominaisuuksissa. 
+
+Tuet ovat kustannustehokkaita ja vaikuttavia, kun niillä kannustetaan hiilinielujen ylläpitoon ja lisäämiseen. Tällöin tuen avulla voidaan maksaa hiilinieluista niiden ilmakehästä poistamien kasvihuonekaasujen perusteella. Esimerkiksi päästökompensaatioita ostamalla voidaan kannustaa toteuttamaan uudelleenmetsityshankkeita.
+
+Tukien avulla voidaan myös vaikuttaa globaaliin väestönkehitykseen, joka on päästöjen kasvun merkittävä taustatekijä. Esimerkiksi tukemalla perhesuunnittelua korkean syntyvyyden maissa voidaan ilmastovaikutusten lisäksi edistää monia kehitystavoitteita [@Cleland2006]. Kehitysyhteistyö tarjoaisi laajemminkin mahdollisuuksia kestävän kehityksen ja ilmastopolitiikan tavoitteiden yhdistämiseksi, esimerkiksi teknologiansiirtoa tukemalla [@IPCC2018].
+
+Jos ilmastopolitiikalla halutaan kannustaa ilmastotoimiin maan rajojen ulkopuolella, ohjauskeinon on oltava tuki (tai [hiilitulli](#hiilitullit)). Verojen ja maksujen kantaminen päästöistä tai nielujen supistamisesta ei luonnollisesti ole mahdollista maan hallintovallan ulkopuolella.
+
+### Tehoton väline päästöjen vähentämiseen
+
+Tuilla voidaan myös yrittää kannustaa päästöjen vähentämiseen. Se edellyttää, että sääntelijä arvioi, kuinka paljon päästöjä talouden toimijat tuottaisivat ilman tukea. Tukea maksetaan, jos päästöt alittavat ennalta määritellyn tavoitteen. Vastaavasti hiilikrediittejä voidaan myöntää tavoitteen ja toteutuneiden päästöjen erotusta vastaava määrä.
+
+Kun päästövähennyksistä maksetaan tukea, politiikka ei täytä saastuttaja maksaa -periaatetta. Tuki kannustaa vähentämään päästöjä, mutta sen kustannukset maksaa julkinen sektori. Itse päästöistä ei muodostu saastuttajalle kustannusta.
+
+Tuki päästövähennyksille ei ole lähtökohtaisesti kustannustehokas, sillä se vaikuttaa yritysten kannustimiin tulla ja poistua päästöjä tuottavalta toimialalta. Yritys, joka onnistuu vähentämään päästöjä ja saa siitä tuen, on aiempaa kannattavampi. Tämä saattaa estää tuotannon lopettamisen silloinkin, kun se olisi sekä kansantalouden että ympäristön kannalta perusteltua. [@Hanley2007; @Sterner2013.] 
+
+```{block2, type = "laatikko", echo = TRUE}
+### Tuki päästöjen vähentämiselle  voi jopa lisätä päästöjä
+
+Tuki päästöjen vähentämiselle voi pahimmillaan jopa kannustaa päästöjen lisäämiseen. Esimerkiksi Kioton pöytäkirjassa perustettu Puhtaan kehityksen mekanismi (Clean Development Mechanism, CDM) aiheutti hetkellisesti tällaisen tilanteen. Mekanismin avulla teollisuusmaat pystyvät rahoittamaan päästövähennyshankkeita kehitysmaissa. 
+
+Alkuun Puhtaan kehityksen mekanismi myönsi hiilikrediittejä hankkeista, joissa vähennettiin jäähdytysainetuotannon sivutuotteena syntyviä fluorihiilivety- eli HFC-päästöjä. Osoittautui kuitenkin, että Kiinassa näiden päästöjen tuotantoa lisättiin, jotta niiden vähentämisestä saisi kreiittejä [@Schneider2011]. Lopulta Puhtaan kehityksen mekanismi päätti lopettaa hiilikrediittien myöntämisen HFC-hankkeille.
+```
+
+### Suorat ilmastotuet usein tehottomia 
+
+Suorat ilmastotuet ovat taloustieteen teorian näkökulmasta perusteltuja, mikäli voidaan osoittaa jokin markkinahäiriö, jonka korjaamisessa tuki auttaa. Suorat tuet liittyvät tyypillisesti tiettyihin toimialoihin, hyödykkeisiin tai teknologioihin, joten niiden tarkoituksenmukaisuutta on arvioitava aina tapauskohtaisesti [ks. esim. @Aldy2010; @Gillingham2018]. Taloustieteilijöiden keskuudessa yleinen näkemys vaikuttaisi olevan, että suorien tukien vaikutukset jäävät turhan usein niille asetetuista tavoitteista.
+
+Kun ilmastopoliittinen tuki kohdistetaan suoraan johonkin tiettyyn toimintaan, on sääntelijällä oltava runsaasti tietoa sääntelyn kohteesta, jotta tuki olisi vaikuttava ja kustannustehokas. Esimerkiksi uusiutuviin energialähteisiin kohdistuvien tukien tarkoituksenmukainen mitoitus edellyttää sääntelijältä ymmärrystä teknologisista vaihtoehdoista, energian markkinahinnoista ja tuotantokustannuksista.
+
+```{block2, type = "laatikko", echo = TRUE}
+### Tuulisähkön tyyris syöttötariffi
+
+Suomessa astui vuonna 2011 voimaan laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta. Lailla tuettiin valtion varoista tuulivoimaa, biokaasua, puupolttoainetta ja metsähaketta hyödyntävää sähköntuotantoa. 
+
+Valtiontalouden tarkastusvirasto on arvioinut tuloksellisuustarkastuskertomuksessaan tuulisähkön tuottajille maksettavan syöttötariffin kustannustehokkuutta [@VTV2017]. Virasto katsoi, että tavoitehintaan perustuva tariffi siirtää markkinahintariskin veronmaksajille ja heikentää kustannustehokkuutta. Tukijärjestelmä osoittautui ennakoitua kalliimmaksi, sillä tavoitehintaa ei kyetty asettamaan markkinaperustaisesti ja sähkön hinta laski ennakoimattomasti.
+
+Uusiutuvan energian tuotantotuet maksoivat valtion talousarvioesitysten mukaan vuosina 2017-2018 noin 250 miljoonaa euroa vuodessa. Lisäksi on syytä huomioida, että nämä päästökauppasektorille kohdistuvat tuet eivät vaikuta olennaisesti päästöjen määrään (ks. alaluku \@ref(paallekkaiset)). Tukea ei voida siis pitää ilmaston kannalta vaikuttavana saati kustannustehokkaana ilmastopolitiikkana.
+
+Uusiutuvilla energialähteillä tuotetun sähkön [tukijärjestelmää uudistettiin vuonna 2018](https://tem.fi/artikkeli/-/asset_publisher/uusiutuvan-energian-tarjouskilpailusta-tukea-seitsemalle-hankkeelle-hyvaksyttyjen-tarjousten-keskihinta-2-5-euroa-mwh) siten, että kiinteän tavoitehinnan sijaan tuki kohdennetaan tarjouskilpailun avulla. Uudessa järjestelmässä sähkön tuottajat tekevät valtiolle tarjouksen siitä, kuinka suurella tuella ne kykenevät tuottamaan uusiutuvaa sähköä markkinoille. Valtio myöntää tukia edullisuusjärjestyksessä tarjouksen tehneille tuottajille täyttääkseen määrätyn uusiutuvan sähkön tuotantokiintiön. 
+```
+
+### Ympäristölle haitalliset tuet
+
+Ilmastotukien vastapainona erilaiset ympäristölle haitalliset tuet ovat yleisiä maailmanlaajuisesti. Ympäristölle haitallisiksi tuiksi määritellään yleisesti tuet, joiden seurauksena ympäristöhaittaa syntyy enemmän kuin ilman kyseistä tukea [ks. esim. @oecd05]. Ilmastolle haitallisten tukien poistaminen on vaikuttava ja ilmeisen kustannustehokas tapa vähentää päästöjä.
+
+Käytännössä tukien luokittelu ilmastolle haitallisiksi on joissain tapauksissa hyvin haastavaa, sillä liki kaikki tuet lisäävät joltain osin päästöjä suorasti tai epäsuorasti. Tuilla on tyypillisesti muita hyötyjä, joita vasten tuen tarkoituksenmukaisuutta tulee arvioida. 
+
+Selkeänä esimerkkinä ilmastolle haitallisista tuista ovat erilaiset tuet fossiilisten polttoaineiden käytölle. Suomessa fossiilisia polttoaineita tuetaan mm. turpeelle, yhdistetylle lämmön- ja sähköntuotannolle, osalle teollisuudesta ja maataloudelle myönnetyillä energiaverotuksen kevennyksillä. Niiltä osin kuin tuet [kohdistuvat päästökauppasektorille](#paallekkaiset), ne eivät kuitenkaan lisää kokonaispäästöjä.
+
+Maailmanlaajuisesti fossiilisten polttoaineiden kulutusta tuettiin vuonna 2017 arviolta 300 miljardilla dollarilla. Valtaosa fossiilisten polttoaineiden tuista on kehittyvissä öljyntuottajamaissa. Dollarimääräisesti eniten tukia maksoivat Iran, Kiina ja Saudi Arabia. [@WEO2018.]
+
+```{r subsidies, fig.cap = "Fossiilisia polttoaineita tuettiin maailmanlaajuisesti 300 miljardilla dollarilla vuonna 2017", echo = FALSE, cache = TRUE, warning = FALSE}
+```
+
+
+## Hiilitullit {#hiilitullit}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Hiilitullit suojaavat kotimaista tuotantoa epäreilulta kilpailuedulta ja hiilivuodolta.
+- Hiilitullit aiheuttavat merkittäviä kauppapoliittisia riskejä.
+- Hiilitullit voivat olla vaikuttavia mutta kustannustehokkuus on kyseenalainen.
+
+```
+
+Hiilitullit ovat tuontituotteille päästöjen perusteella  asetettavia ylimääräisiä tulleja. Potentiaalisesti ne voivat hieman parantaa ilmastopolitiikan vaikuttavuutta, kustannustehokkuutta ja oikeudenmukaisuutta sekä kannustaa muita maita tiukempaan ilmastopolitiikkaan, mutta hiilitulleihin liittyy merkittäviä riskejä.
+
+Hiilitullien perusajatuksena on nostaa tuontituotteiden hintaa, mikäli lähtömaa ei hinnoittele päästöjään tai ilmastopolitiikka on löysempää kuin kotimaassa. Näin voidaan tehdä päästöjen hinnoittelu kotimaisen ja tuontituotannon välillä yhdenmukaiseksi.
+
+Hiilitulleilla voidaan pyrkiä suojaamaan kotimaista tuotantoa epäreilulta kilpailulta. Hiilitullit hyödyttävät epäsuorasti myös muita maita, jotka toteuttavat tiukempaa ilmastopolitiikkaa.
+
+Hiilitullien päästöjä vähentävä vaikutus perustuu osin samaan markkinamekanismiin kuin hiilivuoto. Kotimainen päästöjen hinnoittelu nostaa kotimaisen tuotannon hintaa suhteessa kilpailijamaihin, jolloin osa tuotannosta saattaa siirtyä ulkomaille. Vastaavasti hiilitulli nostaa tuontituotteiden hintaa suhteessa kotimaisiin kilpailijoihin, jolloin tuotantoa saattaa siirtyä kotimaahan. Teoreettisesti hiilitullit ovat vaihtoehto ilmastopoliittisille helpotuksille, joita voidaan myöntää hiilivuodolle alttiille toimialoille [@Hoel1996]. 
+
+Vaikka teoriassa ilmastopolitiikan kustannustehokkuutta voidaan parantaa hiilitullien avulla, simulaatiomallit viittaavat, että vaikutus jää pieneksi [@Böhringer2012; @Helminen2017].
+
+### Tuontituotteiden hiilisisältö 
+
+Hiilitullien käyttöönotossa käytännön haasteena on määrittää, kuinka paljon  ulkomaisista tuotteista on syntynyt kasvihuonekaasupäästöjä. Yksinkertaisten raaka-aineiden kuten fossiilisten polttoaineiden osalta hinnoittelu on varsin suoraviivaista. Haaste on kuitenkin erityisen suuri pitkälle jalostetuille tuotteille, jotka syntyvät monimutkaisissa kansainvälisissä tuotantoketjuissa. 
+
+Esimerkiksi autojen ja puhelimien valmistuksessa käytettyjä komponentteja valmistetaan monessa maassa ja monenlaisilla tuotantotavoilla. Arvio tällaisten tuotteiden hiilijalanjäljestä on lähinnä suuntaa antava arvio ja perustuu pääosin toimialojen ja tavaraluokkien keskiarvoihin. Tarvittavat tilastotiedot kansainvälisten tuotantoketjujen rakenteista valmistuvat useamman vuoden viiveellä. Hiilitullien määrittämisen haastavuutta lisää se, että kansainvälisessä kaupassa liikkuu miljoonia erilaisia tavaroita ja palveluita, joiden tuotantotavat muuttuvat alati. Siksi kustannustehokkaan ja reilun hiilitullin määrittäminen on vaikeaa. 
+
+### Hiilitullit ja protektionismi
+
+Ilmastovaikutusten ohessa hiilitulleilla on paljolti samanlaisia vaikutuksia  kuin tulleilla ja kaupan rajoitteilla yleisesti. Niitä voidaan käyttää protektionistisen kauppapolitiikan välineenä [@Mehling2018]. Hiilitulleista kertyy valtiolle tuloja joita voidaan käyttää monin tavoin [@Grubb2011]. Samalla hiilitulleihin kytkeytyy kaikki protektionistisen kauppapolitiikan tyypilliset riskit kuten kiihtyvän kauppasodan uhka. 
+
+Mikäli tullien seurauksena kansainvälinen kaupan edellytykset heikkenevät, se johtaisi vapaan kaupan synnyttämien taloudellisen hyötyjen supistumiseen. Tuontitullit voivat myös heikentää kotimaisten vientiyritysten kilpailukykyä, mikäli ne ovat riippuvaisia ulkomaisista tuontipanoksista. Suomen kaltaisen pienen avotalouden kohdalla riskit olisivat erityisen suuret. 
+
+
+## Informaatio-ohjaus {#informaatio}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Parempi tieto auttaa tekemään parempia valintoja.
+- Tuuppaamalla ihmisiä voi ohjata parempiin valintoihin rajoittamatta vaihtoehtoja tai muuttamatta kustannuksia.
+- Vaikuttavuus ja kustannustehokkuus riippuu tapauksesta.
+
+```
+
+Informaatio-ohjaukseen tai "tuuppaukseen" perustuvien politiikkatoimien ideana on tarjota talouden toimijoille tietoa, jonka toivotaan ohjaavan ilmastoystävällisempään käyttäytymiseen. Tuottajia ja kuluttajia voidaan ohjata vähentämään päästöjä tarjoamalla heille tietoa erilaisten toimintatapojen kustannuksista ja hyödyistä. Tuuppaamisessa ei varsinaisesti puututa kannustimiin tai rajata vaihtoehtoja, vaan ikään kuinka hyödynnetään talouden toimijoiden epärationaalisuutta [@Brekke2008; @Gowdy2008].
+
+Monet kotitaloudet ja yritykset ovat halukkaita vähentämään päästöjä, mutta luotettavaa ja ymmärrettävää tietoa omien valintojen vaikutuksista ei aina ole saatavilla. Oikea-aikainen ja käyttökelpoinen tieto voi auttaa tekemään parempia valintoja.
+
+Parhaimmillaan tuuppaaminen voi olla erittäin kustannustehokas tapa vähentää päästöjä. Tulokset vaikutuksista ovat vaihtelevia, mutta vaikuttavuuden kannalta merkittävistä tekijöistä on kertynyt runsaasti lisätietoa kokeilujen myötä. Yksinään parempaa informaatiota tarjoamalla ei synny kovinkaan suuria vaikutuksia, mutta tuuppausohjelmat voivat olla arvokas lisä ilmastopolitiikan kokonaisuudessa [@Benartzi2017]. 
+
+### Ympäristömerkit 
+
+Ympäristömerkit ovat perinteinen tapa viestiä tietoa tuotteiden ympäristövaikutuksista. Suomessa tunnettuja esimerkkejä ovat  Pohjoismainen ympäristömerkki eli Joutsenmerkki ja luomu-merkki. 
+
+Ympäristömerkin saaminen tyypillisesti edellyttää, että jokin riippumaton taho valvoo merkin käyttöä ja varmistaa, että merkityt tuotteet täyttävät tietyt ympäristövaatimukset. Ympäristömerkkien tavoitteena on ohjata kuluttajien valintoja ja tuotteiden valmistusta ympäristöystävällisempään suuntaan, mutta kuluttajien informaatio-ohjausta vaikuttavuudesta on heikosti tutkimusnäyttöä [@Mont2005].
+
+Ilmastonmuutoksen hillintään on usein esitetty tuotekohtaisia hiilijalanjälkimerkintöjä. Käytännössä kuitenkin satojentuhansien hyödykkeiden hiilijalanjälkien mittaaminen luotettavasti ja tietojen ylläpitäminen olisi liki mahdoton urakka. 
+
+Likimääräisten ja tuoteluokkakohtaisten laskelmien tekeminen olisi aavistuksen helpompi tehtävä, mutta tällöin merkintöjen ohjausvaikutus olisi heikompi. Yksittäiset valmistajat eivät voisi esimerkiksi parantaa suhteellista asemaa investoimalla vähäpäästöisempään teknologiaan, vaan niiden hiilijalanjälki määräytyisi tuoteluokan keskiarvon perusteella.
+
+### Energiatehokkuus
+
+Energian säästämiseen olisi tarjolla monenlaisia mahdollisuuksia, mutta kuluttajat ja yritykset eivät välttämättä ole tietoisia eri vaihtoehdoista. Energiatehokkuuden parantamista informaatio-ohjauksella on tutkittu runsaasti viime vuosina [@Gerarden2017; @Allcott2012]. Energiansäästöohjelmat voivat säästää päästöjen lisäksi energiankäytön kustannuksia ja parantaa hyvinvointia [@Allcott2019].
+
+Sosiaaliset normit ohjaavat ihmisten toimintaa ja niihin kytkeytyvä tieto voi saada aikaan muutoksia käyttäytymisessä. Esimerkiksi tieto siitä, kuinka suurta oma sähkönkulutus on naapureihin verrattuna, voi kannustaa tehostamaan energiankäyttöä. Yhdysvaltalaisessa tutkimuksessa kotitaloudet, jotka saivat tietää kuluttavansa naapureitaan enemmän sähköä, vähensivät omaa kulutustaan. Tutkimuksissa on havaittu myös niin sanottu bumerangiefekti, jossa aiemmin tavallista vähemmän sähköä kuluttavat kotitaloudet lisäsivät kulutustaan saatuaan tietää sen olevan vähäistä [@Schultz2007; @Nolan2008]. 
+
+Bumerangiefekti saattaa heikentää kaikenlaisten ilmastotoimien vaikuttavuutta. Esimerkiksi kestokassien tai päästökompensaatioiden käyttö voi lievittää moraalista vastuuntunnetta ja helpottaa päästöjen lisäämistä toisaalla [ks. esim. @Gino2016; @Mazar2010].
+
+Informaatio-ohjauksen toimivuuteen vaikuttaa suuressa määrin se, miten viestit on laadittu. Pienetkin yksityiskohdat voivat olla hyvin merkityksellisiä, mutta suunnittelemalla viestit huolella bumerangiefektin voi estää [@Allcott2011]. Ohjelmien vaikutukset voivat parhaimmillaan olla yllättävänkin pitkäaikaisia ja pysyviä [@Allcott2014].
+
+Normien lisäksi viestit kytkeytyvät ihmisten henkilökohtaisiin arvoihin. Informaatio-ohjauksen vaikuttavuus riippuu esimerkiksi viestin vastaanottajan poliittisista näkemyksistä [@Costa2013]. Ilmastonmuutos on aiheena vahvasti polarisoitunut sekä poliittisesti että sosiaalisesti, mikä on syytä huomioida ilmastoviestinnässä [@mccr11; @Itkonen2015].
+
+
+## Teknologisen kehityksen tukeminen {#tktuki}
+
+```{block2, type = "tiivis", echo = TRUE}
+- Uutta teknologiaa kehittämällä Suomi voi vaikuttaa päästöihin kansainvälisesti kokoaan suuremmin.
+- T&k-tuet parantavat ilmastopolitiikan kustannustehokkuutta, mutta eivät vähennä päästöjä yksinään.
+- Resurssitehokkuuden paraneminen voi jopa lisätä luonnonvarojen käyttöä.
+
+```
+
+Teknologista kehitystä tukemalla voidaan alentaa ilmastonmuutoksen hillitsemisen kustannuksia ja osaltaan kannustaa vähentämään päästöjä. Ilmastoteknologian kehityksen tukemiselle on vahvat taloustieteelliset perusteet ja uusia kilpailukykyisiä ratkaisuja luomalla Suomi voisi vaikuttaa päästöihin globaalisti.
+
+Taloustieteessä teknologialla tarkoitetaan yleisesti kaikkia niitä vaihtoehtoisia tapoja, joilla taloudessa osataan yhdistää erilaisia tuotannontekijöitä tavaroiden ja palveluiden tuottamiseksi. Teknologinen kehitys tarkoittaa sitä, että tuotannontekijöitä opitaan yhdistelemään uusilla tavoilla. Uuden teknologian avulla voi mahdollisesti luoda täysin uusia hyödykkeitä tai tuottaa vanhat hyödykkeet käyttäen aiempaa vähemmän resursseja.
+
+### Teknologinen kehitys alentaa päästövähennysten kustannuksia
+
+Teknologisella kehityksellä on keskeinen rooli ilmastonmuutoksen hillinnässä. Ilman uusia teknologisia ratkaisuja sovittujen ilmastotavoitteiden saavuttamien olisi todennäköisesti ylitsepääsemättömän kallista [@Nordhaus2013].
+
+Ilmastopolitiikan välineitä valitessa on tärkeä huomioida, miten ne kannustavat päästöjä vähentävän teknologian kehitykseen. Suora sääntely tyypillisesti jättää markkinaehtoisia välineitä vähemmän vapauksia etsiä ja kehittää uusia teknologisia ratkaisuja [@Jaffe2002]. 
+
+Julkisen vallan voi olla vaikea arvioida teknologisia vaihtoehtoja eri toimialoilla ja valita parhaita kenoja yritysten puolesta. Ilmaston kannalta samaan tulokseen voidaan päästä usein edullisemmin, kun ilmastopolitiikalla asetetaan sitovat tavoitteet mutta jätetään talouden toimijoille vapaus valita itselleen parhaat keinot.
+
+
+### Kaksinkertainen markkinahäiriö
+
+Markkinoilla on taipumus kehittää ilmastoteknologiaa vähemmän kuin olisi sosiaalisesti optimaalista. Ilmastonmuutosta hillitsevän teknologian kehittämiseen liittyy kaksi keskeistä markkinahäiriötä, joiden seurauksena kannustimet kehittää ilmastoteknologiaa ovat puutteelliset. Ensimmäinen markkinahäiriö johtuu päästöjen negatiivisista ulkoisvaikutuksista ja toinen teknologian positiivista ulkoisvaikutuksista. 
+
+Kun yritys kehittää uusia keinoja ja menetelmiä hillitä ilmastonmuutosta, siitä hyötyvät ihmiset globaalisti. Mikäli päästöjä ei ole hinnoiteltu hiiliveron tai päästökaupan avulla, ilmastoteknologian taloudellinen hyöty itse yritykselle on rajallinen. Mikäli päästöt on hinnoiteltu, yritys säästää päästöjen aiheuttamissa kustannuksissa investoimalla uuteen teknologiaan [ks. esim. @Calel2016]. Lisäksi yritys voi myydä teknologiaansa muille, joilla on sama taloudellinen kannustin vähentää päästöjään.
+
+Nielujen osalta innovaatiotoiminnan kannustimet ovat jopa päästöjä heikommat. Energiatehokkuutta parantava teknologian kehittämiseen ja käyttöönottoon yrityksillä ja kuluttajilla on osittainen kannustin, sillä ne säästävät energiakustannuksia. Nielujen kasvattaminen puolestaan ei tuota vastaavaa kustannussäästöä. Samoin kasvihuonekaasujen poistoon tai hiilidioksidin talteenottoon ja varastointiin tarvittavan teknologian kehittämiseen kannustimet ovat olemattomat ilman hiilen hinnoittelua.
+
+Vaikka päästöt olisi hinnoiteltu oikeaoppisesti, ilmastoteknologian kehittämiseen liittyy samat markkinahäiriöt kuin uuden teknologian kehitykseen yleisesti.^[Teoriassa jälkimmäistä ulkoisvaikutusta voi yrittää lieventää nostamalla hiilen hintaa yli hiilen sosiaalisen rajakustannuksen, mikä kannustaisi investoimaan voimakkaammin ilmastoteknologiaan, mutta tämä tapahtuisi muiden tuotannollisten investointien kustannuksella [@Hart2008].] Yrityksen voi olla esimerkiksi vaikea rahoittaa tuloksiltaan epävarmaa tutkimustyötä eikä yritys välttämättä onnistu perimään uuden teknologian käytöstä täysimääräistä maksua muilta yrityksiltä. Näistä syistä julkisen vallan tuki innovaatiotoiminnalle on perusteltua. Vaihtoehtoisia välineitä tukea innovaatiotoimintaa on tutkittu taloustieteessä runsaasti [@Takalo2014].
+
+### Onko teknologinen kehitys ratkaisu?
+
+Teknologisen kehityksen tukeminen hiilen hinnoittelun rinnalla on hyvin perusteltua, mutta itsestään teknologinen kehitys ei todennäköisesti johda riittävään nettopäästöjen vähenemiseen.
+
+Energiatehokkuuden paraneminen teknologisen kehityksen myötä ei välttämättä vähennä päästöjä, sillä se saattaa myös lisätä lopputuotteiden kysyntää. Taloustieteessä ilmiö tunnetaan Jevonsin paradoksina. Esimerkiksi henkilöautojen polttoaineen kulutuksen väheneminen alentaa autoilun kustannuksia, mikä tekee siitä taloudellisesti houkuttelevampaa yhä useammalle. 
+
+Kun energiatehokkuus paranee, hinta laskee ja kysynnän määrä lisääntyy. Joissain tapauksissa kysynnän määrän kasvun päästöjä lisäävä vaikutus saattaa olla suurempi kuin energiatehokkuuden päästöjä vähentävä vaikutus.
+
+### Kansainvälinen vaikutus kotimaisella teknologialla
+
+Kehittämällä ilmastoteknologiaa Suomella on mahdollisuus vaikuttaa nettopäästöihin kansainvälisesti. Kilpailukykyistä teknologiaa kehittämällä Suomella voisi olla ilmastonmuutoksen hillinnässä huomattavasti kokoaan suurempi globaali vaikutus. 
+
+Ilmastoteknologian vienti voi olla taloudellisesti ja sosiaalisesti kannattavaa pitkällä aikavälillä, vaikka kannustimet lyhyellä aikavälillä ovat rajalliset. Edellä kuvattujen markkinahäiriöiden seurauksena kannustimet ilmastoteknologian kehittämiseen ovat heikot verrattuna globaaleihin hyötyihin. Liiketaloudellinen kannattavuus riippuu paljolti tulevasta ilmastopolitiikasta kansainvälisesti ja tähän liittyy paljon epävarmuutta, mikä saattaa estää yrityksiä panostamasta innovaatiotoimintaan. 
+
+Mikäli uudet päästöjä vähentävät innovaatiot ovat riittävän kilpailukykyisiä, ne voivat levitä globaalisti, vaikka ilmastopolitiikka olisi löysää muissa maissa. 
+
+Ilmastonmuutosta hillitsevästä teknologiasta voi muotoutua hyvin arvokkaita vientituotteita tulevaisuudessa, kun hiilen hinnoittelu yleistyy maailmalla. Tukemalla ilmastoteknologian kehitystä julkinen sektori voi kantaa osan poliittisista riskeistä. Innovaatiotoiminnan julkiselle tuelle on sitä suurempi tarve, mitä suuremmat ovat ulkoisvaikutukset [@Takalo2014]. Ilmastoteknologian kohdalla ne ovat erityisen suuret kaksinkertaisesta markkinahäiriöstä johtuen.
+
+

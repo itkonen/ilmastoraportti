@@ -1,0 +1,67 @@
+%\setmainfont[UprightFeatures={SmallCapsFont=AlegreyaSC-Regular}]{Alegreya}
+\usepackage{ebgaramond}
+%\special{papersize=148mm,210mm}% it is A5 paper size, I got from Wikipedia.
+
+%% \usepackage{fancyhdr}
+%% \pagestyle{fancy}
+%% \renewcommand\headrulewidth{0pt} % no line between document and header
+%% \fancyhead{} % clear header
+%% \fancyfoot{} % clear footer
+%% \fancyhead[LE,RO]{\thepage} % page at left on even and right on odd pages
+
+\usepackage{titleps}
+\renewpagestyle{plain}{%
+\setfoot{}{}{}
+\sethead[\thepage][][]{}{}{\thepage}
+}%
+\pagestyle{plain}
+
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+\makeatletter
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{}{}{}% Removes space above \chapter head
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{}{}{}% Removes space above \chapter* head
+\makeatother
+
+
+\raggedbottom
+  
+\usepackage{geometry}
+ \geometry{
+ bottom=30mm,
+ outer=40mm,
+ }
+\DeclareFontFamily{\encodingdefault}{\ttdefault}{\hyphenchar\font=`\-}
+
+
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\tcbuselibrary{breakable}
+
+\newenvironment{tiivis}{
+\tcbset{enhanced, drop shadow}
+\begin{tcolorbox}[hyphenationfix, colback=gray!15, left=-5mm]
+\small
+\ttfamily
+}{
+\end{tcolorbox}
+}
+
+ 
+\newenvironment{laatikko}{
+\begin{tcolorbox}[hyphenationfix, colback=gray!5, parbox=true, float=!tb, before upper={\parindent15pt}, sharp corners]
+\small
+}{
+\end{tcolorbox}
+}
+
+\setcounter{secnumdepth}{1}
+\widowpenalty=10000
+
+\renewcommand\labelitemi{>}
+
+\newenvironment{info}{
+\vspace{5mm} 
+\hrulefill
+\newline
+\footnotesize
+}{\par}

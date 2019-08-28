@@ -1,0 +1,59 @@
+.tiivis {
+    font-family: Courier, Monaco, monospace;
+		background-color: #F4F4F4;
+		padding: 15px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-radius: 15px;
+    border: solid 2px black;
+    margin-bottom: 24px;
+    -webkit-box-shadow: 5px 5px 0px 0px #ADADAD; 
+    box-shadow: 3px 3px 0px 0px #ADADAD;
+}
+
+.laatikko {
+		background-color: #F4F4F4;
+		padding: 15px;
+    padding-top: 0;
+    border: solid 2px black;
+    margin-bottom: 24px;
+}
+
+p {
+    text-align: justify;
+}
+
+.tiivis ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tiivis li {
+    padding-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+}
+.tiivis li::before {
+    content: ">";
+    padding-right: 5px;
+}
+
+h3 > span {
+    display: none;
+}
+
+
+/* .tiivis ~ ul { */
+/*     margin: 0; */
+/* } */
+
+p.flushright {
+    text-align: right;
+    padding-bottom: 10mm;
+}
+
+.info {
+    border-top: solid 1px gray;
+    padding-top: 20px;
+}

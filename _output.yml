@@ -1,0 +1,21 @@
+bookdown::gitbook:
+  dev: svglite
+  split_by: section
+  toc_depth: 2
+  config:
+    toc:
+      before: <li><a href="./">Välineet ilmastonmuutoksen hillitsemiseksi</a></li>
+      after: <li><a href="https://github.com/itkonen/ilmastoraportti" target="blank">Raportin lähdekoodi</a></li>
+  download: ["pdf", "epub", "mobi"]
+  split_bib: no
+  includes:
+    in_header: header.html
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+    before_body: before_body.tex 
+  latex_engine: xelatex
+  dev: "cairo_pdf"
+  keep_tex: true
+  number_sections: true
+bookdown::epub_book: default
