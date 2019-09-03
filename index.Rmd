@@ -1,7 +1,7 @@
 ---
 title: "Välineet ilmastonmuutoksen hillitsemiseksi"
 author: Juha Itkonen
-description: "Tässä raportissa esitellään ilmastonmuutoksen hillinnän politiikkaväilineitä yleistajuisesti tutkimuskirjalliuuden pohjalta."
+description: "Raportissa esitellään yleistajuisesti keinoja ilmastonmuutoksen hillitsemiseksi tutkimuksiin perustuen."
 date: "`r max(as.Date('2019-08-29'), Sys.Date())`"
 site: bookdown::bookdown_site
 lang: fi
