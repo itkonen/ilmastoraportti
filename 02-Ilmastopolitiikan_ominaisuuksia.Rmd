@@ -126,7 +126,7 @@ Jos esimerkiksi kustannukset nousevat kymmenkertaisiksi, kasvaa ilmastonmuutokse
 
 Ilmastopolitiikkaan liittyy monia oheishyötyjä, mutta pääsääntöisesti on syytä olettaa, että ilmastopolitiikka maksaa. Tämän maksun vastineeksi ilmastonmuutos hidastuu.
 
-Ilmastonmuutoksen torjuminen edellyttää, että osa yhteiskunnan voimavaroista käytetään ilmaston hyväksi ja että saastuttavimmista teknologioista luovutaan. Tulevaisuudessa taloudellisesti tuottavimmat tuotantotavat eivät välttämättä ole enää käytettävissä [ks. @Gillingham2018]. Joudumme tuottamaan hyvinvointimme ikään kuin toinen käsi sidottuna selän takana.
+Ilmastonmuutoksen torjuminen edellyttää, että osa yhteiskunnan voimavaroista käytetään ilmaston hyväksi ja että saastuttavimmista teknologioista luovutaan. Tulevaisuudessa taloudellisesti tuottavimmat tuotantotavat eivät välttämättä ole enää käytettävissä [ks. @Gillingham2018]. Joudumme tuottamaan hyvinvointimme ikään kuin toinen käsi sidottuna selän taakse.
 
 On kuitenkin mahdollista, että alkuun kansantaloudessa on yhä hyödyntämättä sellaisia keinoja, jotka säästävät sekä ilmastoa että muita resursseja. Niin sanotun Porterin hypoteesin mukaan ympäristösääntely voi kannustaa parantamaan tuottavuutta ja luomaan innovaatioita niin, että kannattavuus ja kilpailukyky paranevat. 
 

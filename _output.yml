@@ -5,7 +5,7 @@ bookdown::gitbook:
   config:
     toc:
       before: <li><a href="./">Välineet ilmastonmuutoksen hillitsemiseksi</a></li>
-      after: <li><a href="https://github.com/itkonen/ilmastoraportti" target="blank">Raportin lähdekoodi</a></li>
+      after: <li><a href="_main.pdf">Lataa pdf</a></li><li><a href="https://github.com/itkonen/ilmastoraportti" target="blank">Raportin lähdekoodi</a></li>
   download: ["pdf", "epub", "mobi"]
   split_bib: no
   includes:

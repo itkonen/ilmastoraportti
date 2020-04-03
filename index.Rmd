@@ -2,14 +2,14 @@
 title: "Välineet ilmastonmuutoksen hillitsemiseksi"
 author: Juha Itkonen
 description: "Raportissa esitellään yleistajuisesti keinoja ilmastonmuutoksen hillitsemiseksi tutkimuksiin perustuen."
-date: "`r max(as.Date('2019-08-29'), Sys.Date())`"
+date: "`r format(Sys.Date(), '%e. %bkuuta %Y')`"
 site: bookdown::bookdown_site
 lang: fi
 documentclass: report
 classoption: twoside,openright
 fontsize: 12pt
 papersize: b5
-geometry: null
+# geometry: null
 cover-image: "cover-image.png"
 bibliography: ["library.bib"]
 biblio-style: apalike

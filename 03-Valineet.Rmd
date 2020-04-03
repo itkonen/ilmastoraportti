@@ -33,7 +33,7 @@ Valtaosa kasvihuonekaasupäästöistä syntyy lähteistä, joiden toimintaan on 
 
 On monta eri tapaa, jolla julkinen sektori voi puuttua päästöjä tuottavaan toimintaan. Suoranaisia kieltoja lievempänä keinona voidaan määrittää yrityskohtaisia päästökiintiöitä. Silloin sääntelijä joutuu päättämään, kuinka paljon kukin yritys saa tuottaa. 
 
-Sääntelyllä voidaan myös estää sellaisia toimintamuotoja (kuten teknologisia valintoja), jotka synnyttävät runsaasti päästöjä. Sääntelyllä voidaan esimerkiksi velvoittaa yrityksiä käyttämään vähäpäästöisempiä teknologisia vaihtoehtoja.
+Sääntelyllä voidaan myös estää sellaisia toimintamuotoja, jotka synnyttävät runsaasti päästöjä. Sääntelyllä voidaan esimerkiksi velvoittaa yrityksiä käyttämään vähäpäästöisempiä teknologisia vaihtoehtoja.
 
 Vaikka kieltojen ja sääntelyn avulla voitaisiin puuttua päästöjä aiheuttavaan toimintaan melko suoraan, niiden keskeisenä ongelmana on korkea kustannus. Kielto saattaa estää sellaisia toimia, joiden hyöty kuluttajille tai arvo yrityksille on huomattavan suuri suhteessa päästöjen aiheuttamaan haittaan. [Ks. @IPCCwg3ar5.]
 
@@ -62,8 +62,6 @@ Ympäristötaloustieteilijöiden keskuudessa onkin varsin vahva näkemys, että 
 Kiellot ja sääntely voivat kuitenkin olla perusteltu ratkaisu tietyissä rajatapauksissa. Kielto voi olla tehokas väline tapauksissa, joissa on perusteltu syy ohjata kaikki toimijat käyttämään yhtä tiettyä teknologiaa. Samoin, jos yritysten välillä ei ole olennaisia eroja, kieltoja joustavammat ohjauskeinot saavat aikaan vain vähän kustannussäästöjä [@Newell2003]. Tapauksissa, joissa toiminnan haitta ympäristölle on suuri, taloudellinen hyöty vähäinen ja vaihtoehtoinen teknologia edullinen, kielto voi olla yksinkertainen tapa ohjata tuotantotapoja. 
 
 Jos kielto on mahdollista toimeenpanna vaiheittain, toimeenpanossa voidaan hyödyntää markkinamekanismeja, jotka lieventävät sopeutumisen kustannuksia. Asteittain kiristyvän [hiiliveron](#hiilivero) tai [päästökaupan](#paastokauppa) avulla voidaan lähestyä täyskieltoa pehmeämmin. Esimerkiksi vuonna 1987 allekirjoitettu Montrealin pöytäkirja, joka rajoitti otsonikatoa aiheuttavien aineiden käyttöä, mahdollisti päästökaupan hyödyntämisen sopimuksen toimeenpanossa [@tiet06].
-
-<!-- Kieltojen ja sääntelyn suora vaikutus päästöihin voi olla helppo määrittää. Toimien epäsuorien vaikutusten arviointi on usein hankalampaa. Vaikuttavuuden kriteerikään ei täyty kaikissa tapauksissa. Kiellot ja sääntely ei lähtökohtaisesti vaikuta päästöihin silloin, kun ne kohdistuvat päästökauppasektorille [@Goulder2011; @goul11].  -->
 
 
 ## Päästökauppa {#paastokauppa}
@@ -96,7 +94,7 @@ Päästöoikeudet voidaan jakaa niitä tarvitseville joko huutokauppaamalla tai 
 
 Päästökaupan normaalioloilla tarkoitetaan tilannetta, jossa päästöoikeuksista on niukkuutta eli niillä on nollaa korkeampi hinta. Kun päästöoikeuksista ei ole niukkuutta, päästöjen lisäämien ei edellytä päästöjen vähentämistä toisaalla. Tässäkään tapauksessa päästöjen kokonaismäärä ei voi ylittää päästöoikeuksien kokonaismäärää. Normaaliolot voi aina palauttaa vähentämällä päästöoikeuksien määrää niin, että päästöoikeuksista on jälleen niukkuutta. (Ks. myös alaluku \@ref(paallekkaiset).)
 
-Jos ilmaisjaon osuus on kovin suuri, se voi heikentää kustannustehokkuutta, vaikkei vaikutakaan päästöjen määrään [@hahn84, @lisk11]. Huutokaupan osuuden kasvattaminen lisää päästöoikeuksien hintaan liittyvää epävarmuutta yrityksille, mutta toisaalta kannustaa voimakkaammin vähäpäästöisen teknologian kehittämiseen [@IPCCwg3ar5].
+Jos ilmaisjaon osuus on kovin suuri, se voi heikentää kustannustehokkuutta, vaikkei vaikutakaan päästöjen määrään [@hahn84; @lisk11]. Huutokaupan osuuden kasvattaminen lisää päästöoikeuksien hintaan liittyvää epävarmuutta yrityksille, mutta toisaalta kannustaa voimakkaammin vähäpäästöisen teknologian kehittämiseen [@IPCCwg3ar5].
 ```
 
 
@@ -260,9 +258,9 @@ Käytännössä tukien luokittelu ilmastolle haitallisiksi on joissain tapauksis
 
 Selkeänä esimerkkinä ilmastolle haitallisista tuista ovat erilaiset tuet fossiilisten polttoaineiden käytölle. Suomessa fossiilisia polttoaineita tuetaan mm. turpeelle, yhdistetylle lämmön- ja sähköntuotannolle, osalle teollisuudesta ja maataloudelle myönnetyillä energiaverotuksen kevennyksillä. Niiltä osin kuin tuet [kohdistuvat päästökauppasektorille](#paallekkaiset), ne eivät kuitenkaan lisää kokonaispäästöjä.
 
-Maailmanlaajuisesti fossiilisten polttoaineiden kulutusta tuettiin vuonna 2017 arviolta 300 miljardilla dollarilla. Valtaosa fossiilisten polttoaineiden tuista on kehittyvissä öljyntuottajamaissa. Dollarimääräisesti eniten tukia maksoivat Iran, Kiina ja Saudi Arabia. [@WEO2018.]
+Maailmanlaajuisesti fossiilisten polttoaineiden kulutusta tuettiin vuonna 2018 arviolta 300 miljardilla dollarilla. Summa kasvoi noin kolmanneksella edellisvuodesta. Valtaosa fossiilisten polttoaineiden tuista on kehittyvissä öljyntuottajamaissa. Dollarimääräisesti eniten tukia maksoivat Iran, Saudi Arabia ja Kiina. [@WEO2018.]
 
-```{r subsidies, fig.cap = "Fossiilisia polttoaineita tuettiin maailmanlaajuisesti 300 miljardilla dollarilla vuonna 2017", echo = FALSE, cache = TRUE, warning = FALSE}
+```{r subsidies, fig.cap = "Fossiilisia polttoaineita tuettiin maailmanlaajuisesti 400 miljardilla dollarilla vuonna 2018", echo = FALSE, cache = TRUE, warning = FALSE}
 ```
 
 
