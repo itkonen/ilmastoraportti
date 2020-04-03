@@ -229,7 +229,7 @@ Tuki päästövähennyksille ei ole lähtökohtaisesti kustannustehokas, sillä 
 
 Tuki päästöjen vähentämiselle voi pahimmillaan jopa kannustaa päästöjen lisäämiseen. Esimerkiksi Kioton pöytäkirjassa perustettu Puhtaan kehityksen mekanismi (Clean Development Mechanism, CDM) aiheutti hetkellisesti tällaisen tilanteen. Mekanismin avulla teollisuusmaat pystyvät rahoittamaan päästövähennyshankkeita kehitysmaissa. 
 
-Alkuun Puhtaan kehityksen mekanismi myönsi hiilikrediittejä hankkeista, joissa vähennettiin jäähdytysainetuotannon sivutuotteena syntyviä fluorihiilivety- eli HFC-päästöjä. Osoittautui kuitenkin, että Kiinassa näiden päästöjen tuotantoa lisättiin, jotta niiden vähentämisestä saisi kreiittejä [@Schneider2011]. Lopulta Puhtaan kehityksen mekanismi päätti lopettaa hiilikrediittien myöntämisen HFC-hankkeille.
+Alkuun Puhtaan kehityksen mekanismi myönsi hiilikrediittejä hankkeista, joissa vähennettiin jäähdytysainetuotannon sivutuotteena syntyviä fluorihiilivety- eli HFC-päästöjä. Osoittautui kuitenkin, että Kiinassa näiden päästöjen tuotantoa lisättiin, jotta niiden vähentämisestä saisi krediittejä [@Schneider2011]. Lopulta Puhtaan kehityksen mekanismi päätti lopettaa hiilikrediittien myöntämisen HFC-hankkeille.
 ```
 
 ### Suorat ilmastotuet usein tehottomia 
@@ -245,7 +245,7 @@ Suomessa astui vuonna 2011 voimaan laki uusiutuvilla energialähteillä tuotetun
 
 Valtiontalouden tarkastusvirasto on arvioinut tuloksellisuustarkastuskertomuksessaan tuulisähkön tuottajille maksettavan syöttötariffin kustannustehokkuutta [@VTV2017]. Virasto katsoi, että tavoitehintaan perustuva tariffi siirtää markkinahintariskin veronmaksajille ja heikentää kustannustehokkuutta. Tukijärjestelmä osoittautui ennakoitua kalliimmaksi, sillä tavoitehintaa ei kyetty asettamaan markkinaperustaisesti ja sähkön hinta laski ennakoimattomasti.
 
-Uusiutuvan energian tuotantotuet maksoivat valtion talousarvioesitysten mukaan vuosina 2017-2018 noin 250 miljoonaa euroa vuodessa. Lisäksi on syytä huomioida, että nämä päästökauppasektorille kohdistuvat tuet eivät vaikuta olennaisesti päästöjen määrään (ks. alaluku \@ref(paallekkaiset)). Tukea ei voida siis pitää ilmaston kannalta vaikuttavana saati kustannustehokkaana ilmastopolitiikkana.
+Uusiutuvan energian tuotantotuet maksoivat valtion talousarvioesitysten mukaan vuosina 2017–2018 noin 250 miljoonaa euroa vuodessa. Lisäksi on syytä huomioida, että nämä päästökauppasektorille kohdistuvat tuet eivät vaikuta olennaisesti päästöjen määrään (ks. alaluku \@ref(paallekkaiset)). Tukea ei voida siis pitää ilmaston kannalta vaikuttavana saati kustannustehokkaana ilmastopolitiikkana.
 
 Uusiutuvilla energialähteillä tuotetun sähkön [tukijärjestelmää uudistettiin vuonna 2018](https://tem.fi/artikkeli/-/asset_publisher/uusiutuvan-energian-tarjouskilpailusta-tukea-seitsemalle-hankkeelle-hyvaksyttyjen-tarjousten-keskihinta-2-5-euroa-mwh) siten, että kiinteän tavoitehinnan sijaan tuki kohdennetaan tarjouskilpailun avulla. Uudessa järjestelmässä sähkön tuottajat tekevät valtiolle tarjouksen siitä, kuinka suurella tuella ne kykenevät tuottamaan uusiutuvaa sähköä markkinoille. Valtio myöntää tukia edullisuusjärjestyksessä tarjouksen tehneille tuottajille täyttääkseen määrätyn uusiutuvan sähkön tuotantokiintiön. 
 ```
